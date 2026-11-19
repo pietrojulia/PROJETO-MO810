@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Iniciar site (Python)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/site_escolha_sua_banca.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
