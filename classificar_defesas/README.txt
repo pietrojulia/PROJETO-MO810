@@ -65,8 +65,8 @@ Após validação dos prêmio e reconhecimentos externos e internos, sugiro real
 atualização das planilhas de classificação. Isso pois, o primeiro script foi feito 
 concomitantemente a classificação das defesas e a busca dos prêmios. 
 
-python3 classificar_defesas_premios_coerentes.py \
-  --atualizar-classificacao "Classificação_2023_preenchida(4).xlsx" \
+python3 classificar_defesas_premios_validados.py \
+  --atualizar-classificacao "Classificação_2023_preenchida.xlsx" \
   --premios-base premios_ic_validados.csv \
   --ano 2023 \
-  --saida "Classificação_2023_premios_coerentes.xlsx"
+  --saida "Classificação_2023_premios_validados.xlsx"
