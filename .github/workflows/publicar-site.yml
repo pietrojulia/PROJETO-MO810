@@ -1,0 +1,63 @@
+name: Publicar Escolha sua banca
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'projeto_final_MO810/analises/04_site/publicacao/**'
+      - '.github/workflows/publicar-site.yml'
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+      - name: Configurar Pages
+        uses: actions/configure-pages@v5
+      - name: Separar arquivos publicos revisados
+        shell: bash
+        run: |
+          set -euo pipefail
+          src='projeto_final_MO810/analises/04_site/publicacao'
+          mkdir -p _site
+          for file in index.html estilo.css interacao.js dados_publicos.json; do
+            test -s "$src/$file" || { echo "Arquivo ausente ou vazio: $src/$file"; exit 1; }
+            cp "$src/$file" _site/
+          done
+          touch _site/.nojekyll
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          data = json.loads(Path('_site/dados_publicos.json').read_text(encoding='utf-8'))
+          assert data.get('publicacaoEstatica') is True, 'Execute exportar_site.py antes de publicar.'
+          assert all(not {'genero','raca','origemDemografia','observacoes'}.intersection(p) for p in data['professores']), 'Dados pessoais presentes.'
+          assert all('aluno' not in r for p in data['professores'] for r in p['participacoes']), 'Nomes de alunos presentes.'
+          assert not data['docentes']['anos']['2026']['genero'] and not data['docentes']['anos']['2026']['raca'], 'Distribuicoes nominais de 2026 presentes.'
+          for grupo in [*data['distribuicoes']['bancas'].values(), data['distribuicoes']['premios']]:
+              for dist in [grupo, *(v for v in grupo.values() if isinstance(v, dict) and 'genero' in v)]:
+                  assert not dist.get('genero') and not dist.get('raca'), 'Distribuicoes nominais presentes.'
+          assert './dados_publicos.json' in Path('_site/interacao.js').read_text(encoding='utf-8'), 'JS nao aponta para JSON estatico.'
+          assert not data['auditoria']['quantidadeDivergencias'], 'Divergencias na base exportada.'
+          print('Arquivos estaticos conferidos.')
+          PY
+      - name: Enviar somente o site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Publicar no GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
