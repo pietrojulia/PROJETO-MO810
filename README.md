@@ -1,7 +1,7 @@
 # Projeto Final 
 *2026.2 MO810 | Feminismo de Dados | Tópicos em Inteligência Artificial*
 
-# Projeto `Representação de mulheres em bancas de defesa e em premiações acadêmicas no Instituto de Computação da UNICAMP`
+## Representação de mulheres em bancas de defesa e em premiações acadêmicas no Instituto de Computação da UNICAMP
 
 > Nome | RA 
 > ----- | ----- 
