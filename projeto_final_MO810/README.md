@@ -8,7 +8,7 @@ O projeto investiga quem participa das bancas de mestrado e doutorado do IC e co
 
 ## 1. Estrutura do projeto
 
-O diretório `projeto_final_MO810/`, dentro do repositório, contém as etapas de coleta, processamento, análise e visualização. A árvore abaixo destaca os principais arquivos do fluxo de trabalho; não é uma listagem exaustiva.
+O diretório `projeto_final_MO810/`, dentro do repositório, contém as etapas de coleta, processamento, análise e visualização. A árvore abaixo destaca os principais arquivos do fluxo de trabalho.
 
 ```text
 PROJETO-MO810/
@@ -73,7 +73,6 @@ git clone https://github.com/pietrojulia/PROJETO-MO810.git
 cd PROJETO-MO810/projeto_final_MO810
 ```
 
-Se o repositório for privado, será necessário ter acesso autorizado.
 
 ### Dependências
 
@@ -92,7 +91,6 @@ Instale as dependências uma vez:
 python -m pip install -r requirements.txt
 ```
 
-Se o arquivo de requisitos existente ainda não incluir `pandas`, acrescente a linha acima antes da instalação. No Windows, pode-se substituir `python` por `py`; em Linux ou WSL, por `python3`, conforme a instalação.
 
 ### Abrir o site com os dados já processados
 
@@ -103,11 +101,11 @@ python site_ic/caminhos.py
 python site_ic/site_escolha_sua_banca.py
 ```
 
-Abra [http://localhost:8001](http://localhost:8001) caso o navegador não abra automaticamente. Para encerrar o servidor, pressione `Ctrl+C` no terminal. O servidor prepara os arquivos derivados e verifica a consistência dos dados na inicialização.
+Abra [http://localhost:8001](http://localhost:8001) caso o navegador não abra automaticamente. O servidor prepara os arquivos derivados e verifica a consistência dos dados na inicialização.
 
 ## 3. Etapas de coleta e processamento
 
-Execute esta seção quando for necessário reconstruir ou atualizar as bases. A ordem é: **01_premios → 02_defesas → 03_processamento → site_ic**. Os arquivos de `graficos/` fornecem informações complementares ao processamento e ao site.
+Execute esta seção quando for necessário reconstruir ou atualizar as bases. A ordem é: **01_premios → 02_defesas → 03_processamento → 04_site**. Os arquivos de `graficos/` fornecem informações complementares ao processamento e ao site.
 
 ### 3.1. `analises/01_premios` — Premiações e reconhecimentos
 
@@ -303,8 +301,4 @@ Os testes de regressão utilizam esses totais para detectar mudanças inesperada
 - [Anuário de Pesquisa — Prêmios e Homenagens](https://pesquisa.dados.unicamp.br/premios): exportações internas e externas de 2019 a 2025.
 - [Instituto de Computação da Unicamp](https://ic.unicamp.br/): páginas de defesas e relação de docentes, complementadas pelas planilhas do projeto.
 
-As categorias de sexo tabulado no Anuário não são diretamente equivalentes às categorias de gênero do levantamento nominal. As classificações de gênero e raça/cor da equipe não constituem, necessariamente, autodeclarações verificadas. A categoria `Pardo?` indica uma classificação pendente de confirmação. Os vínculos (ativo, aposentado, ex-professor, colaborador e in memoriam) correspondem à situação registrada no cadastro, e não necessariamente à situação no ano da defesa ou do prêmio.
-
-O site local não envia as classificações individuais de gênero e raça/cor associadas aos nomes dos docentes na API e não disponibiliza a pasta de dados brutos. Entretanto, pequenas contagens agregadas e informações nominais de participações e prêmios podem permitir reidentificação. A versão de pesquisa não deve ser considerada anonimizada. Antes de publicar o repositório ou hospedar o site publicamente, é necessário revisar a divulgação de dados pessoais, os pequenos grupos e as autorizações pertinentes.
-
-A execução descrita neste README é local. Uma publicação em serviço de hospedagem estática, como GitHub Pages, exige uma etapa separada de exportação do JSON e revisão dos dados destinados ao público; o servidor Python local não é executado pelo GitHub Pages.
+O desenvolvimento do site con
