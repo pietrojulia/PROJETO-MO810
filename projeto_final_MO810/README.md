@@ -301,4 +301,3 @@ Os testes de regressão utilizam esses totais para detectar mudanças inesperada
 - [Anuário de Pesquisa — Prêmios e Homenagens](https://pesquisa.dados.unicamp.br/premios): exportações internas e externas de 2019 a 2025.
 - [Instituto de Computação da Unicamp](https://ic.unicamp.br/): páginas de defesas e relação de docentes, complementadas pelas planilhas do projeto.
 
-O desenvolvimento do site con
