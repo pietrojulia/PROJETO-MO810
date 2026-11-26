@@ -1,0 +1,706 @@
+﻿professor;chave;ano;nivel;aluno;funcao;criterio;linha_fonte
+Hélio Pedrini;helio pedrini;2023;Mestrado;Anderson Nogueira Cotrim;Orientação;IC explícito;2
+Hélio Pedrini;helio pedrini;2023;Mestrado;Anderson Nogueira Cotrim;Titular;IC explícito;2
+Andre Santanche;andre santanche;2023;Mestrado;Anderson Nogueira Cotrim;Suplente;IC explícito;2
+Alexandre Xavier Falcão;alexandre xavier falcao;2023;Mestrado;Matheus Abrantes Cerqueira;Orientação;IC explícito;3
+Alexandre Xavier Falcão;alexandre xavier falcao;2023;Mestrado;Matheus Abrantes Cerqueira;Titular;IC explícito;3
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2023;Mestrado;Matheus Abrantes Cerqueira;Titular;IC explícito;3
+Hélio Pedrini;helio pedrini;2023;Mestrado;Matheus Abrantes Cerqueira;Suplente;IC explícito;3
+Lucas Francisco Wanner;lucas francisco wanner;2023;Mestrado;Casio Pacheco Krebs;Orientação;IC explícito;4
+Guido Costa Souza de Araújo;guido costa souza de araujo;2023;Mestrado;Casio Pacheco Krebs;Coorientação;IC inferido pelo cadastro;4
+Lucas Francisco Wanner;lucas francisco wanner;2023;Mestrado;Casio Pacheco Krebs;Titular;IC explícito;4
+Rodolfo Jardim de Azevedo;rodolfo jardim de azevedo;2023;Mestrado;Casio Pacheco Krebs;Titular;IC explícito;4
+Ricardo Pannain;ricardo pannain;2023;Mestrado;Casio Pacheco Krebs;Suplente;IC explícito;4
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2023;Mestrado;Rachel Vanucchi Saraiva;Orientação;IC explícito;5
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2023;Mestrado;Rachel Vanucchi Saraiva;Titular;IC explícito;5
+Lehilton Lelis Chaves Pedrosa;lehilton lelis chaves pedrosa;2023;Mestrado;Rachel Vanucchi Saraiva;Titular;IC explícito;5
+Flávio Keidi Miyazawa;flavio keidi miyazawa;2023;Mestrado;Rachel Vanucchi Saraiva;Suplente;IC explícito;5
+Esther Luna Colombini;esther luna colombini;2023;Mestrado;Raysa Masson Benatti;Orientação;IC explícito;6
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2023;Mestrado;Raysa Masson Benatti;Coorientação;IC inferido pelo cadastro;6
+Esther Luna Colombini;esther luna colombini;2023;Mestrado;Raysa Masson Benatti;Titular;IC explícito;6
+Leandro Aparecido Villas;leandro aparecido villas;2023;Mestrado;Gabriel Oliveira Campos;Orientação;IC explícito;7
+Leandro Aparecido Villas;leandro aparecido villas;2023;Mestrado;Gabriel Oliveira Campos;Titular;IC explícito;7
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2023;Mestrado;Gabriel Oliveira Campos;Titular;IC explícito;7
+Esther Luna Colombini;esther luna colombini;2023;Mestrado;Gabriel Oliveira Campos;Suplente;IC explícito;7
+Claudia Maria Bauzer Medeiros;claudia maria bauzer medeiros;2023;Mestrado;Josiane Rosa de Oliveira Gaia Pimenta;Orientação;IC explícito;8
+Maria Cecília Calani Baranauskas;maria cecilia calani baranauskas;2023;Mestrado;Josiane Rosa de Oliveira Gaia Pimenta;Coorientação;IC explícito;8
+Maria Cecília Calani Baranauskas;maria cecilia calani baranauskas;2023;Mestrado;Josiane Rosa de Oliveira Gaia Pimenta;Titular;IC explícito;8
+Ariadne Maria Brito Rizzoni Carvalho;ariadne maria brito rizzoni carvalho;2023;Mestrado;Josiane Rosa de Oliveira Gaia Pimenta;Titular;IC explícito;8
+Eliane Martins;eliane martins;2023;Mestrado;Josiane Rosa de Oliveira Gaia Pimenta;Suplente;IC explícito;8
+Hervé Cédric Yviquel;herve cedric yviquel;2023;Mestrado;Vitoria Dias Moreira Pinho;Orientação;IC explícito;9
+Guido Costa Souza de Araújo;guido costa souza de araujo;2023;Mestrado;Vitoria Dias Moreira Pinho;Coorientação;IC inferido pelo cadastro;9
+Hervé Cédric Yviquel;herve cedric yviquel;2023;Mestrado;Vitoria Dias Moreira Pinho;Titular;IC explícito;9
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2023;Mestrado;Vitoria Dias Moreira Pinho;Titular;IC explícito;9
+Edson Borin;edson borin;2023;Mestrado;Vitoria Dias Moreira Pinho;Suplente;IC explícito;9
+Julio Cesar López Hernández;julio cesar lopez hernandez;2023;Mestrado;Caio Teixeira;Orientação;IC explícito;10
+Ricardo Dahab;ricardo dahab;2023;Mestrado;Caio Teixeira;Coorientação;IC inferido pelo cadastro;10
+Julio Cesar López Hernández;julio cesar lopez hernandez;2023;Mestrado;Caio Teixeira;Titular;IC explícito;10
+Edson Borin;edson borin;2023;Mestrado;Caio Teixeira;Titular;IC explícito;10
+Paulo Lício de Geus;paulo licio de geus;2023;Mestrado;Caio Teixeira;Suplente;IC explícito;10
+Hélio Pedrini;helio pedrini;2023;Mestrado;Giovanna Vendramini;Orientação;IC explícito;11
+Hélio Pedrini;helio pedrini;2023;Mestrado;Giovanna Vendramini;Titular;IC explícito;11
+Andre Santanche;andre santanche;2023;Mestrado;Giovanna Vendramini;Titular;IC explícito;11
+Esther Luna Colombini;esther luna colombini;2023;Mestrado;Giovanna Vendramini;Suplente;IC explícito;11
+Andre Santanche;andre santanche;2023;Mestrado;Victor Antonio Menuzzo;Orientação;IC explícito;12
+Andre Santanche;andre santanche;2023;Mestrado;Victor Antonio Menuzzo;Titular;IC explícito;12
+Hélio Pedrini;helio pedrini;2023;Mestrado;Victor Antonio Menuzzo;Suplente;IC explícito;12
+Esther Luna Colombini;esther luna colombini;2023;Mestrado;Leonardo Rezende Costa;Orientação;IC explícito;13
+Esther Luna Colombini;esther luna colombini;2023;Mestrado;Leonardo Rezende Costa;Titular;IC explícito;13
+Ricardo Dahab;ricardo dahab;2023;Mestrado;Ana Clara Zoppi Serpa;Orientação;IC explícito;14
+Ricardo Dahab;ricardo dahab;2023;Mestrado;Ana Clara Zoppi Serpa;Titular;IC explícito;14
+Fábio Luiz Usberti;fabio luiz usberti;2023;Mestrado;Ana Clara Zoppi Serpa;Suplente;IC explícito;14
+Gerberth Adín Ramírez Rivera;gerberth adin ramirez rivera;2023;Mestrado;Bruno César de Oliveira Souza;Orientação;IC explícito;15
+Hélio Pedrini;helio pedrini;2023;Mestrado;Bruno César de Oliveira Souza;Coorientação;IC explícito;15
+Hélio Pedrini;helio pedrini;2023;Mestrado;Bruno César de Oliveira Souza;Titular;IC explícito;15
+Marcelo da Silva Reis;marcelo da silva reis;2023;Mestrado;Bruno César de Oliveira Souza;Titular;IC explícito;15
+Alexandre Xavier Falcão;alexandre xavier falcao;2023;Mestrado;Bruno César de Oliveira Souza;Suplente;IC explícito;15
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2023;Mestrado;Eduardo Seiti Ito;Orientação;IC explícito;16
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2023;Mestrado;Eduardo Seiti Ito;Titular;IC explícito;16
+Juliana Freitag Borin;juliana freitag borin;2023;Mestrado;Eduardo Seiti Ito;Titular;IC explícito;16
+Edmundo Roberto Mauro Madeira;edmundo roberto mauro madeira;2023;Mestrado;Eduardo Seiti Ito;Suplente;IC explícito;16
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2023;Mestrado;João Paulo Francisco da Silva;Orientação;IC explícito;17
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2023;Mestrado;João Paulo Francisco da Silva;Coorientação;IC inferido pelo cadastro;17
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2023;Mestrado;João Paulo Francisco da Silva;Titular;IC explícito;17
+Fábio Luiz Usberti;fabio luiz usberti;2023;Mestrado;João Paulo Francisco da Silva;Titular;IC explícito;17
+Flávio Keidi Miyazawa;flavio keidi miyazawa;2023;Mestrado;João Paulo Francisco da Silva;Suplente;IC explícito;17
+Rodolfo Jardim de Azevedo;rodolfo jardim de azevedo;2023;Mestrado;Lucas de Camargo Barros de Castro;Orientação;IC explícito;18
+Lucas Francisco Wanner;lucas francisco wanner;2023;Mestrado;Lucas de Camargo Barros de Castro;Coorientação;IC inferido pelo cadastro;18
+Rodolfo Jardim de Azevedo;rodolfo jardim de azevedo;2023;Mestrado;Lucas de Camargo Barros de Castro;Titular;IC explícito;18
+Sandro Rigo;sandro rigo;2023;Mestrado;Lucas de Camargo Barros de Castro;Titular;IC explícito;18
+Hervé Cédric Yviquel;herve cedric yviquel;2023;Mestrado;Lucas de Camargo Barros de Castro;Suplente;IC explícito;18
+Breno Bernard Nicolau de França;breno bernard nicolau de franca;2023;Mestrado;Mateus Gabi Moreira;Orientação;IC explícito;19
+Breno Bernard Nicolau de França;breno bernard nicolau de franca;2023;Mestrado;Mateus Gabi Moreira;Titular;IC explícito;19
+Bruno Barbieri de Pontes Cafeo;bruno barbieri de pontes cafeo;2023;Mestrado;Mateus Gabi Moreira;Titular;IC explícito;19
+Cecília Mary Fischer Rubira;cecilia mary fischer rubira;2023;Mestrado;Mateus Gabi Moreira;Suplente;IC explícito;19
+Diego de Freitas Aranha;diego de freitas aranha;2023;Mestrado;Rafael Junio da Cruz;Orientação;IC explícito;20
+Rodolfo Jardim de Azevedo;rodolfo jardim de azevedo;2023;Mestrado;Rafael Junio da Cruz;Coorientação;IC inferido pelo cadastro;20
+Diego de Freitas Aranha;diego de freitas aranha;2023;Mestrado;Rafael Junio da Cruz;Titular;IC explícito;20
+Julio Cesar López Hernández;julio cesar lopez hernandez;2023;Mestrado;Rafael Junio da Cruz;Titular;IC explícito;20
+Lucas Francisco Wanner;lucas francisco wanner;2023;Mestrado;Rafael Junio da Cruz;Suplente;IC explícito;20
+Edson Borin;edson borin;2023;Mestrado;Bruno Almêda de Oliveira;Orientação;IC explícito;21
+Eduardo Candido Xavier;eduardo candido xavier;2023;Mestrado;Bruno Almêda de Oliveira;Coorientação;IC inferido pelo cadastro;21
+Edson Borin;edson borin;2023;Mestrado;Bruno Almêda de Oliveira;Titular;IC explícito;21
+Guilherme Pimentel Telles;guilherme pimentel telles;2023;Mestrado;Bruno Almêda de Oliveira;Titular;IC explícito;21
+Fábio Luiz Usberti;fabio luiz usberti;2023;Mestrado;Bruno Almêda de Oliveira;Suplente;IC explícito;21
+Cecília Mary Fischer Rubira;cecilia mary fischer rubira;2023;Mestrado;Thales Eduardo Nazatto;Orientação;IC explícito;22
+Leonardo Montecchi;leonardo montecchi;2023;Mestrado;Thales Eduardo Nazatto;Coorientação;IC inferido pelo cadastro;22
+Cecília Mary Fischer Rubira;cecilia mary fischer rubira;2023;Mestrado;Thales Eduardo Nazatto;Titular;IC explícito;22
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2023;Mestrado;Thales Eduardo Nazatto;Titular;IC explícito;22
+Julio Cesar dos Reis;julio cesar dos reis;2023;Mestrado;Thales Eduardo Nazatto;Suplente;IC explícito;22
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2023;Mestrado;Thamiris Florindo Coelho;Orientação;IC explícito;23
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2023;Mestrado;Thamiris Florindo Coelho;Titular;IC explícito;23
+Esther Luna Colombini;esther luna colombini;2023;Mestrado;Thamiris Florindo Coelho;Titular;IC explícito;23
+Helena de Almeida Maia;helena de almeida maia;2023;Mestrado;Thamiris Florindo Coelho;Suplente;IC explícito;23
+Julio Cesar dos Reis;julio cesar dos reis;2023;Mestrado;Jesamin Melissa Zevallos Quispe;Orientação;IC explícito;24
+Julio Cesar dos Reis;julio cesar dos reis;2023;Mestrado;Jesamin Melissa Zevallos Quispe;Titular;IC explícito;24
+Andre Santanche;andre santanche;2023;Mestrado;Jesamin Melissa Zevallos Quispe;Titular;IC explícito;24
+Cecília Mary Fischer Rubira;cecilia mary fischer rubira;2023;Mestrado;Jesamin Melissa Zevallos Quispe;Suplente;IC explícito;24
+Juliana Freitag Borin;juliana freitag borin;2023;Mestrado;Lahis Gomes de Almeida;Orientação;IC explícito;25
+Juliana Freitag Borin;juliana freitag borin;2023;Mestrado;Lahis Gomes de Almeida;Titular;IC explícito;25
+Islene Calciolari Garcia;islene calciolari garcia;2023;Mestrado;Lahis Gomes de Almeida;Titular;IC explícito;25
+Allan Mariano de Souza;allan mariano de souza;2023;Mestrado;Lahis Gomes de Almeida;Suplente;IC explícito;25
+Edmundo Roberto Mauro Madeira;edmundo roberto mauro madeira;2023;Mestrado;Renato Marinho Alves;Orientação;IC explícito;26
+Edmundo Roberto Mauro Madeira;edmundo roberto mauro madeira;2023;Mestrado;Renato Marinho Alves;Titular;IC explícito;26
+Jacques Wainer;jacques wainer;2023;Mestrado;Renato Marinho Alves;Titular;IC explícito;26
+Hélio Pedrini;helio pedrini;2023;Mestrado;Renato Marinho Alves;Suplente;IC explícito;26
+Guido Costa Souza de Araújo;guido costa souza de araujo;2023;Mestrado;Victor Ferreira Ferrari;Orientação;IC explícito;27
+Guido Costa Souza de Araújo;guido costa souza de araujo;2023;Mestrado;Victor Ferreira Ferrari;Titular;IC explícito;27
+Lucas Francisco Wanner;lucas francisco wanner;2023;Mestrado;Victor Ferreira Ferrari;Titular;IC explícito;27
+Hervé Cédric Yviquel;herve cedric yviquel;2023;Mestrado;Victor Ferreira Ferrari;Suplente;IC explícito;27
+Fábio Luiz Usberti;fabio luiz usberti;2023;Mestrado;Paulo Henrique Carvalho de Morais;Orientação;IC explícito;28
+Fábio Luiz Usberti;fabio luiz usberti;2023;Mestrado;Paulo Henrique Carvalho de Morais;Titular;IC explícito;28
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2023;Mestrado;Paulo Henrique Carvalho de Morais;Titular;IC explícito;28
+Islene Calciolari Garcia;islene calciolari garcia;2023;Mestrado;Tainá Turella Caetano dos Santos;Orientação;IC explícito;29
+Islene Calciolari Garcia;islene calciolari garcia;2023;Mestrado;Tainá Turella Caetano dos Santos;Titular;IC explícito;29
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2023;Mestrado;Tainá Turella Caetano dos Santos;Titular;IC explícito;29
+Esther Luna Colombini;esther luna colombini;2023;Mestrado;Tainá Turella Caetano dos Santos;Suplente;IC explícito;29
+Christiane Neme Campos;christiane neme campos;2023;Mestrado;João Paulo Kubaszewski Castilho;Orientação;IC explícito;30
+Christiane Neme Campos;christiane neme campos;2023;Mestrado;João Paulo Kubaszewski Castilho;Titular;IC explícito;30
+Orlando Lee;orlando lee;2023;Mestrado;João Paulo Kubaszewski Castilho;Titular;IC explícito;30
+Lehilton Lelis Chaves Pedrosa;lehilton lelis chaves pedrosa;2023;Mestrado;João Paulo Kubaszewski Castilho;Suplente;IC explícito;30
+Gerberth Adín Ramírez Rivera;gerberth adin ramirez rivera;2023;Doutorado;Juan Felipe Hernández Albarracín;Orientação;IC explícito;31
+Gerberth Adín Ramírez Rivera;gerberth adin ramirez rivera;2023;Doutorado;Juan Felipe Hernández Albarracín;Titular;IC explícito;31
+Hélio Pedrini;helio pedrini;2023;Doutorado;Juan Felipe Hernández Albarracín;Titular;IC explícito;31
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2023;Doutorado;Juan Felipe Hernández Albarracín;Titular;IC explícito;31
+Jacques Wainer;jacques wainer;2023;Doutorado;Juan Felipe Hernández Albarracín;Suplente;IC explícito;31
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2023;Doutorado;Juan Felipe Hernández Albarracín;Suplente;IC explícito;31
+Guido Costa Souza de Araújo;guido costa souza de araujo;2023;Doutorado;Bruno Chinelato Honorio;Orientação;IC explícito;32
+Guido Costa Souza de Araújo;guido costa souza de araujo;2023;Doutorado;Bruno Chinelato Honorio;Titular;IC explícito;32
+Luiz Eduardo Busato;luiz eduardo busato;2023;Doutorado;Bruno Chinelato Honorio;Titular;IC explícito;32
+Lucas Francisco Wanner;lucas francisco wanner;2023;Doutorado;Bruno Chinelato Honorio;Suplente;IC explícito;32
+Hélio Pedrini;helio pedrini;2023;Doutorado;Edgar Rodolfo Quispe Condori;Orientação;IC explícito;33
+Hélio Pedrini;helio pedrini;2023;Doutorado;Edgar Rodolfo Quispe Condori;Titular;IC explícito;33
+Andre Santanche;andre santanche;2023;Doutorado;Edgar Rodolfo Quispe Condori;Titular;IC explícito;33
+Diego de Freitas Aranha;diego de freitas aranha;2023;Doutorado;Pedro Geraldo Morelli Rodrigues Alves;Orientação;IC explícito;34
+Edson Borin;edson borin;2023;Doutorado;Pedro Geraldo Morelli Rodrigues Alves;Coorientação;IC inferido pelo cadastro;34
+Diego de Freitas Aranha;diego de freitas aranha;2023;Doutorado;Pedro Geraldo Morelli Rodrigues Alves;Titular;IC explícito;34
+Guido Costa Souza de Araújo;guido costa souza de araujo;2023;Doutorado;Pedro Geraldo Morelli Rodrigues Alves;Titular;IC explícito;34
+Julio Cesar López Hernández;julio cesar lopez hernandez;2023;Doutorado;Pedro Geraldo Morelli Rodrigues Alves;Titular;IC explícito;34
+Ricardo Dahab;ricardo dahab;2023;Doutorado;Pedro Geraldo Morelli Rodrigues Alves;Suplente;IC explícito;34
+Cid Carvalho de Souza;cid carvalho de souza;2023;Doutorado;Natanael Ramos;Orientação;IC explícito;35
+Pedro Jussieu de Rezende;pedro jussieu de rezende;2023;Doutorado;Natanael Ramos;Coorientação;IC inferido pelo cadastro;35
+Cid Carvalho de Souza;cid carvalho de souza;2023;Doutorado;Natanael Ramos;Titular;IC explícito;35
+Guilherme Pimentel Telles;guilherme pimentel telles;2023;Doutorado;Natanael Ramos;Titular;IC explícito;35
+Flávio Keidi Miyazawa;flavio keidi miyazawa;2023;Doutorado;Natanael Ramos;Titular;IC explícito;35
+Ricardo Dahab;ricardo dahab;2023;Doutorado;Natanael Ramos;Suplente;IC explícito;35
+Eduardo Candido Xavier;eduardo candido xavier;2023;Doutorado;Brenner Humberto Odeja Rios;Orientação;IC explícito;36
+Eduardo Candido Xavier;eduardo candido xavier;2023;Doutorado;Brenner Humberto Odeja Rios;Titular;IC explícito;36
+Fábio Luiz Usberti;fabio luiz usberti;2023;Doutorado;Brenner Humberto Odeja Rios;Titular;IC explícito;36
+Leandro Aparecido Villas;leandro aparecido villas;2023;Doutorado;Diego Oliveira Rodrigues;Orientação;IC explícito;37
+Leandro Aparecido Villas;leandro aparecido villas;2023;Doutorado;Diego Oliveira Rodrigues;Titular;IC explícito;37
+Edmundo Roberto Mauro Madeira;edmundo roberto mauro madeira;2023;Doutorado;Diego Oliveira Rodrigues;Titular;IC explícito;37
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2023;Doutorado;Diego Oliveira Rodrigues;Suplente;IC explícito;37
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2023;Doutorado;Yulle Glébbyo Felipe Borges;Orientação;IC explícito;38
+Flávio Keidi Miyazawa;flavio keidi miyazawa;2023;Doutorado;Yulle Glébbyo Felipe Borges;Coorientação;IC inferido pelo cadastro;38
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2023;Doutorado;Yulle Glébbyo Felipe Borges;Titular;IC explícito;38
+Guilherme Pimentel Telles;guilherme pimentel telles;2023;Doutorado;Yulle Glébbyo Felipe Borges;Suplente;IC explícito;38
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2023;Doutorado;Welverton Rodrigues da Silva;Orientação;IC explícito;39
+Fábio Luiz Usberti;fabio luiz usberti;2023;Doutorado;Welverton Rodrigues da Silva;Coorientação;IC inferido pelo cadastro;39
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2023;Doutorado;Welverton Rodrigues da Silva;Titular;IC explícito;39
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2023;Doutorado;Welverton Rodrigues da Silva;Titular;IC explícito;39
+Orlando Lee;orlando lee;2023;Doutorado;Welverton Rodrigues da Silva;Suplente;IC explícito;39
+Lucas Francisco Wanner;lucas francisco wanner;2023;Doutorado;Isaías Bittencourt Felzmann;Orientação;IC explícito;40
+Lucas Francisco Wanner;lucas francisco wanner;2023;Doutorado;Isaías Bittencourt Felzmann;Titular;IC explícito;40
+Guido Costa Souza de Araújo;guido costa souza de araujo;2023;Doutorado;Isaías Bittencourt Felzmann;Titular;IC explícito;40
+Sandro Rigo;sandro rigo;2023;Doutorado;Isaías Bittencourt Felzmann;Titular;IC explícito;40
+Hervé Cédric Yviquel;herve cedric yviquel;2023;Doutorado;Isaías Bittencourt Felzmann;Suplente;IC explícito;40
+Lehilton Lelis Chaves Pedrosa;lehilton lelis chaves pedrosa;2023;Doutorado;Marcelo Pinheiro Leite Benedito;Orientação;IC explícito;41
+Lehilton Lelis Chaves Pedrosa;lehilton lelis chaves pedrosa;2023;Doutorado;Marcelo Pinheiro Leite Benedito;Titular;IC explícito;41
+Orlando Lee;orlando lee;2023;Doutorado;Marcelo Pinheiro Leite Benedito;Titular;IC explícito;41
+Pedro Jussieu de Rezende;pedro jussieu de rezende;2023;Doutorado;Marcelo Pinheiro Leite Benedito;Suplente;IC explícito;41
+Edson Borin;edson borin;2023;Doutorado;Antonio Carlos Guimarães Junior;Orientação;IC explícito;42
+Diego de Freitas Aranha;diego de freitas aranha;2023;Doutorado;Antonio Carlos Guimarães Junior;Coorientação;IC inferido pelo cadastro;42
+Edson Borin;edson borin;2023;Doutorado;Antonio Carlos Guimarães Junior;Titular;IC explícito;42
+Julio Cesar López Hernández;julio cesar lopez hernandez;2023;Doutorado;Antonio Carlos Guimarães Junior;Titular;IC explícito;42
+Ricardo Dahab;ricardo dahab;2023;Doutorado;Antonio Carlos Guimarães Junior;Titular;IC explícito;42
+Leandro Aparecido Villas;leandro aparecido villas;2023;Doutorado;Joahannes Bruno Dias da Costa;Orientação;IC explícito;43
+Leandro Aparecido Villas;leandro aparecido villas;2023;Doutorado;Joahannes Bruno Dias da Costa;Titular;IC explícito;43
+Juliana Freitag Borin;juliana freitag borin;2023;Doutorado;Joahannes Bruno Dias da Costa;Titular;IC explícito;43
+Guido Costa Souza de Araújo;guido costa souza de araujo;2023;Doutorado;Rafael Cardoso Fernandes Sousa;Orientação;IC explícito;44
+Guido Costa Souza de Araújo;guido costa souza de araujo;2023;Doutorado;Rafael Cardoso Fernandes Sousa;Titular;IC explícito;44
+Hervé Cédric Yviquel;herve cedric yviquel;2023;Doutorado;Rafael Cardoso Fernandes Sousa;Titular;IC explícito;44
+Lucas Francisco Wanner;lucas francisco wanner;2023;Doutorado;Rafael Cardoso Fernandes Sousa;Titular;IC explícito;44
+Sandro Rigo;sandro rigo;2023;Doutorado;Rafael Cardoso Fernandes Sousa;Suplente;IC explícito;44
+Nelson Luis Saldanha da Fonseca;nelson luis saldanha da fonseca;2023;Doutorado;Hernâni Delgado Chantre;Orientação;IC explícito;45
+Nelson Luis Saldanha da Fonseca;nelson luis saldanha da fonseca;2023;Doutorado;Hernâni Delgado Chantre;Titular;IC explícito;45
+Lehilton Lelis Chaves Pedrosa;lehilton lelis chaves pedrosa;2023;Doutorado;Hernâni Delgado Chantre;Titular;IC explícito;45
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2023;Doutorado;Hernâni Delgado Chantre;Titular;IC explícito;45
+Edmundo Roberto Mauro Madeira;edmundo roberto mauro madeira;2023;Doutorado;Hernâni Delgado Chantre;Suplente;IC explícito;45
+Maria Cecília Calani Baranauskas;maria cecilia calani baranauskas;2023;Doutorado;José Valderlei da Silva;Orientação;IC explícito;46
+Maria Cecília Calani Baranauskas;maria cecilia calani baranauskas;2023;Doutorado;José Valderlei da Silva;Titular;IC explícito;46
+Eliane Martins;eliane martins;2023;Doutorado;José Valderlei da Silva;Titular;IC explícito;46
+Hélio Pedrini;helio pedrini;2023;Doutorado;Marcos Roberto e Souza;Orientação;IC explícito;47
+Hélio Pedrini;helio pedrini;2023;Doutorado;Marcos Roberto e Souza;Titular;IC explícito;47
+Esther Luna Colombini;esther luna colombini;2023;Doutorado;Marcos Roberto e Souza;Titular;IC explícito;47
+Andre Santanche;andre santanche;2023;Doutorado;Marcos Roberto e Souza;Suplente;IC explícito;47
+Fábio Luiz Usberti;fabio luiz usberti;2023;Doutorado;Lucas Porto Maziero;Orientação;IC explícito;48
+Fábio Luiz Usberti;fabio luiz usberti;2023;Doutorado;Lucas Porto Maziero;Titular;IC explícito;48
+Guilherme Pimentel Telles;guilherme pimentel telles;2023;Doutorado;Lucas Porto Maziero;Suplente;IC explícito;48
+Alexandre Xavier Falcão;alexandre xavier falcao;2023;Doutorado;Azael de Melo e Sousa;Orientação;IC explícito;49
+Alexandre Xavier Falcão;alexandre xavier falcao;2023;Doutorado;Azael de Melo e Sousa;Titular;IC explícito;49
+Hélio Pedrini;helio pedrini;2023;Doutorado;Azael de Melo e Sousa;Titular;IC explícito;49
+Esther Luna Colombini;esther luna colombini;2023;Doutorado;Azael de Melo e Sousa;Titular;IC explícito;49
+Guido Costa Souza de Araújo;guido costa souza de araujo;2024;Mestrado;Luciano Gigantelli Zago;Orientação;IC explícito;50
+Guido Costa Souza de Araújo;guido costa souza de araujo;2024;Mestrado;Luciano Gigantelli Zago;Titular;IC explícito;50
+Sandro Rigo;sandro rigo;2024;Mestrado;Luciano Gigantelli Zago;Suplente;IC explícito;50
+Ricardo da Silva Torres;ricardo da silva torres;2024;Mestrado;Maisa Silva;Orientação;IC explícito;51
+Hélio Pedrini;helio pedrini;2024;Mestrado;Maisa Silva;Suplente;IC explícito;51
+Guido Costa Souza de Araújo;guido costa souza de araujo;2024;Mestrado;Vinícius Couto Espindola;Orientação;IC explícito;52
+Hervé Cédric Yviquel;herve cedric yviquel;2024;Mestrado;Vinícius Couto Espindola;Coorientação;IC inferido pelo cadastro;52
+Guido Costa Souza de Araújo;guido costa souza de araujo;2024;Mestrado;Vinícius Couto Espindola;Titular;IC explícito;52
+Sandro Rigo;sandro rigo;2024;Mestrado;Vinícius Couto Espindola;Titular;IC explícito;52
+Lucas Francisco Wanner;lucas francisco wanner;2024;Mestrado;Vinícius Couto Espindola;Suplente;IC explícito;52
+Hélio Pedrini;helio pedrini;2024;Mestrado;Percy Maldonado Quispe;Orientação;IC explícito;53
+Hélio Pedrini;helio pedrini;2024;Mestrado;Percy Maldonado Quispe;Titular;IC explícito;53
+Helena de Almeida Maia;helena de almeida maia;2024;Mestrado;Percy Maldonado Quispe;Titular;IC explícito;53
+Andre Santanche;andre santanche;2024;Mestrado;Percy Maldonado Quispe;Suplente;IC explícito;53
+Andre Santanche;andre santanche;2024;Mestrado;Yan Prada Moro;Orientação;IC explícito;54
+Andre Santanche;andre santanche;2024;Mestrado;Yan Prada Moro;Titular;IC explícito;54
+Rodolfo Jardim de Azevedo;rodolfo jardim de azevedo;2024;Mestrado;Yan Prada Moro;Titular;IC explícito;54
+Julio Cesar dos Reis;julio cesar dos reis;2024;Mestrado;Yan Prada Moro;Suplente;IC explícito;54
+Andre Santanche;andre santanche;2024;Mestrado;Caroline Gerbaudo Nakazato;Orientação;IC explícito;55
+Andre Santanche;andre santanche;2024;Mestrado;Caroline Gerbaudo Nakazato;Titular;IC explícito;55
+Emanuel Felipe Duarte;emanuel felipe duarte;2024;Mestrado;Caroline Gerbaudo Nakazato;Titular;IC explícito;55
+Julio Cesar dos Reis;julio cesar dos reis;2024;Mestrado;Caroline Gerbaudo Nakazato;Suplente;IC explícito;55
+Jacques Wainer;jacques wainer;2024;Mestrado;Luan de Oliveira Silveira;Orientação;IC explícito;56
+Jacques Wainer;jacques wainer;2024;Mestrado;Luan de Oliveira Silveira;Titular;IC explícito;56
+Marcelo da Silva Reis;marcelo da silva reis;2024;Mestrado;Luan de Oliveira Silveira;Titular;IC explícito;56
+Anderson de Rezende Rocha;anderson de rezende rocha;2024;Mestrado;Luan de Oliveira Silveira;Suplente;IC explícito;56
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2024;Mestrado;Athyrson Machado Ribeiro;Orientação;IC explícito;57
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2024;Mestrado;Athyrson Machado Ribeiro;Titular;IC explícito;57
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2024;Mestrado;Athyrson Machado Ribeiro;Titular;IC explícito;57
+Anderson de Rezende Rocha;anderson de rezende rocha;2024;Mestrado;Athyrson Machado Ribeiro;Suplente;IC explícito;57
+Edson Borin;edson borin;2024;Mestrado;Darlinne Hubert Palo Soto;Orientação;IC explícito;58
+Edson Borin;edson borin;2024;Mestrado;Darlinne Hubert Palo Soto;Titular;IC explícito;58
+Hélio Pedrini;helio pedrini;2024;Mestrado;Darlinne Hubert Palo Soto;Suplente;IC explícito;58
+Alexandre Xavier Falcão;alexandre xavier falcao;2024;Mestrado;André Igor Nóbrega da Silva;Orientação;IC explícito;59
+Alexandre Xavier Falcão;alexandre xavier falcao;2024;Mestrado;André Igor Nóbrega da Silva;Titular;IC explícito;59
+Marcelo da Silva Reis;marcelo da silva reis;2024;Mestrado;André Igor Nóbrega da Silva;Titular;IC explícito;59
+Hélio Pedrini;helio pedrini;2024;Mestrado;André Igor Nóbrega da Silva;Suplente;IC explícito;59
+Zanoni Dias;zanoni dias;2024;Mestrado;Rebeca Padovani Ederli;Orientação;IC explícito;60
+Anderson de Rezende Rocha;anderson de rezende rocha;2024;Mestrado;Rebeca Padovani Ederli;Coorientação;IC inferido pelo cadastro;60
+Zanoni Dias;zanoni dias;2024;Mestrado;Rebeca Padovani Ederli;Titular;IC explícito;60
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2024;Mestrado;Rebeca Padovani Ederli;Titular;IC explícito;60
+Fábio Luiz Usberti;fabio luiz usberti;2024;Mestrado;Arthur Pratti Dadalto;Orientação;IC explícito;61
+Fábio Luiz Usberti;fabio luiz usberti;2024;Mestrado;Arthur Pratti Dadalto;Titular;IC explícito;61
+Lehilton Lelis Chaves Pedrosa;lehilton lelis chaves pedrosa;2024;Mestrado;Arthur Pratti Dadalto;Suplente;IC explícito;61
+Anderson de Rezende Rocha;anderson de rezende rocha;2024;Mestrado;Alexis Aldo Mendoza Villarroel;Orientação;IC explícito;62
+Anderson de Rezende Rocha;anderson de rezende rocha;2024;Mestrado;Alexis Aldo Mendoza Villarroel;Titular;IC explícito;62
+Jacques Wainer;jacques wainer;2024;Mestrado;Alexis Aldo Mendoza Villarroel;Titular;IC explícito;62
+Anderson de Rezende Rocha;anderson de rezende rocha;2024;Mestrado;Matheus Correa Lindino;Orientação;IC explícito;63
+Anderson de Rezende Rocha;anderson de rezende rocha;2024;Mestrado;Matheus Correa Lindino;Titular;IC explícito;63
+Helena de Almeida Maia;helena de almeida maia;2024;Mestrado;Matheus Correa Lindino;Titular;IC explícito;63
+Marcelo da Silva Reis;marcelo da silva reis;2024;Mestrado;Cristiano Gabriel de Souza Campos;Orientação;IC explícito;64
+Marcelo da Silva Reis;marcelo da silva reis;2024;Mestrado;Cristiano Gabriel de Souza Campos;Titular;IC explícito;64
+João Meidanis;joao meidanis;2024;Mestrado;Cristiano Gabriel de Souza Campos;Titular;IC explícito;64
+Andre Santanche;andre santanche;2024;Mestrado;Cristiano Gabriel de Souza Campos;Suplente;IC explícito;64
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2024;Mestrado;Rómulo Walter Condori Bustincio;Orientação;IC explícito;65
+Allan Mariano de Souza;allan mariano de souza;2024;Mestrado;Rómulo Walter Condori Bustincio;Coorientação;IC inferido pelo cadastro;65
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2024;Mestrado;Rómulo Walter Condori Bustincio;Titular;IC explícito;65
+Edson Borin;edson borin;2024;Mestrado;Rómulo Walter Condori Bustincio;Titular;IC explícito;65
+Edmundo Roberto Mauro Madeira;edmundo roberto mauro madeira;2024;Mestrado;Rómulo Walter Condori Bustincio;Suplente;IC explícito;65
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2024;Mestrado;Arthur Hendricks Mendes de Oliveira;Orientação;IC explícito;66
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2024;Mestrado;Arthur Hendricks Mendes de Oliveira;Titular;IC explícito;66
+Marcelo da Silva Reis;marcelo da silva reis;2024;Mestrado;Arthur Hendricks Mendes de Oliveira;Titular;IC explícito;66
+Hélio Pedrini;helio pedrini;2024;Mestrado;Jhéssica Victória Santos da Silva;Orientação;IC explícito;67
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2024;Mestrado;Jhéssica Victória Santos da Silva;Coorientação;IC inferido pelo cadastro;67
+Hélio Pedrini;helio pedrini;2024;Mestrado;Jhéssica Victória Santos da Silva;Titular;IC explícito;67
+Marcelo da Silva Reis;marcelo da silva reis;2024;Mestrado;Wladimir Arturo Garces Carrillo;Orientação;IC explícito;68
+Marcelo da Silva Reis;marcelo da silva reis;2024;Mestrado;Wladimir Arturo Garces Carrillo;Titular;IC explícito;68
+Hélio Pedrini;helio pedrini;2024;Mestrado;Wladimir Arturo Garces Carrillo;Titular;IC explícito;68
+Marcelo da Silva Reis;marcelo da silva reis;2024;Mestrado;Gian Franco Joel Condori Luna;Orientação;IC explícito;69
+Marcelo da Silva Reis;marcelo da silva reis;2024;Mestrado;Gian Franco Joel Condori Luna;Titular;IC explícito;69
+Andre Santanche;andre santanche;2024;Mestrado;Gian Franco Joel Condori Luna;Titular;IC explícito;69
+Julio Cesar dos Reis;julio cesar dos reis;2024;Mestrado;Aissa Hadj Mohamed;Orientação;IC explícito;70
+Leandro Aparecido Villas;leandro aparecido villas;2024;Mestrado;Aissa Hadj Mohamed;Coorientação;IC inferido pelo cadastro;70
+Julio Cesar dos Reis;julio cesar dos reis;2024;Mestrado;Aissa Hadj Mohamed;Titular;IC explícito;70
+Juliana Freitag Borin;juliana freitag borin;2024;Mestrado;Aissa Hadj Mohamed;Titular;IC explícito;70
+Nelson Luis Saldanha da Fonseca;nelson luis saldanha da fonseca;2024;Mestrado;Aissa Hadj Mohamed;Suplente;IC explícito;70
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2024;Mestrado;Victória Pedrazzoli Ferreira;Orientação;IC explícito;71
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2024;Mestrado;Victória Pedrazzoli Ferreira;Titular;IC explícito;71
+Esther Luna Colombini;esther luna colombini;2024;Mestrado;Victória Pedrazzoli Ferreira;Suplente;IC explícito;71
+Lucas Francisco Wanner;lucas francisco wanner;2024;Mestrado;Guilherme Mendeleh Perrotta;Orientação;IC explícito;72
+Sandro Rigo;sandro rigo;2024;Mestrado;Guilherme Mendeleh Perrotta;Coorientação;IC inferido pelo cadastro;72
+Lucas Francisco Wanner;lucas francisco wanner;2024;Mestrado;Guilherme Mendeleh Perrotta;Titular;IC explícito;72
+Hervé Cédric Yviquel;herve cedric yviquel;2024;Mestrado;Guilherme Mendeleh Perrotta;Titular;IC explícito;72
+Breno Bernard Nicolau de França;breno bernard nicolau de franca;2024;Mestrado;Guilherme Mendeleh Perrotta;Suplente;IC explícito;72
+Julio Cesar dos Reis;julio cesar dos reis;2024;Mestrado;Patrick Anderson Matias de Araújo;Orientação;IC explícito;73
+Marcelo da Silva Reis;marcelo da silva reis;2024;Mestrado;Patrick Anderson Matias de Araújo;Coorientação;IC inferido pelo cadastro;73
+Julio Cesar dos Reis;julio cesar dos reis;2024;Mestrado;Patrick Anderson Matias de Araújo;Titular;IC explícito;73
+Helena de Almeida Maia;helena de almeida maia;2024;Mestrado;Patrick Anderson Matias de Araújo;Titular;IC explícito;73
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2024;Mestrado;Patrick Anderson Matias de Araújo;Suplente;IC explícito;73
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2024;Mestrado;Jorge Menezes dos Santos;Orientação;IC explícito;74
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2024;Mestrado;Jorge Menezes dos Santos;Titular;IC explícito;74
+Santiago Valdés Ravelo;santiago valdes ravelo;2024;Mestrado;Jorge Menezes dos Santos;Titular;IC explícito;74
+Flávio Keidi Miyazawa;flavio keidi miyazawa;2024;Mestrado;Jorge Menezes dos Santos;Suplente;IC explícito;74
+Julio Cesar dos Reis;julio cesar dos reis;2024;Mestrado;Maria Jêsca Nobre de Queiroz;Orientação;IC explícito;75
+Emanuel Felipe Duarte;emanuel felipe duarte;2024;Mestrado;Maria Jêsca Nobre de Queiroz;Coorientação;IC inferido pelo cadastro;75
+Julio Cesar dos Reis;julio cesar dos reis;2024;Mestrado;Maria Jêsca Nobre de Queiroz;Titular;IC explícito;75
+Bruno Barbieri de Pontes Cafeo;bruno barbieri de pontes cafeo;2024;Mestrado;Maria Jêsca Nobre de Queiroz;Titular;IC explícito;75
+Edson Borin;edson borin;2024;Mestrado;Patrick dos Santos Alves;Orientação;IC explícito;76
+Edson Borin;edson borin;2024;Mestrado;Patrick dos Santos Alves;Titular;IC explícito;76
+Helena de Almeida Maia;helena de almeida maia;2024;Mestrado;Patrick dos Santos Alves;Titular;IC explícito;76
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2024;Mestrado;Patrick dos Santos Alves;Suplente;IC explícito;76
+Julio Cesar dos Reis;julio cesar dos reis;2024;Mestrado;William Ferreira da Silva Filho;Orientação;IC explícito;77
+Julio Cesar dos Reis;julio cesar dos reis;2024;Mestrado;William Ferreira da Silva Filho;Titular;IC explícito;77
+Jacques Wainer;jacques wainer;2024;Mestrado;William Ferreira da Silva Filho;Suplente;IC explícito;77
+Leandro Aparecido Villas;leandro aparecido villas;2024;Mestrado;Nícolas Riccieri Gardin Assumpção;Orientação;IC explícito;78
+Leandro Aparecido Villas;leandro aparecido villas;2024;Mestrado;Nícolas Riccieri Gardin Assumpção;Titular;IC explícito;78
+Hilder Vitor Lima Pereira;hilder vitor lima pereira;2024;Mestrado;Nícolas Riccieri Gardin Assumpção;Titular;IC explícito;78
+Juliana Freitag Borin;juliana freitag borin;2024;Mestrado;Nícolas Riccieri Gardin Assumpção;Suplente;IC explícito;78
+Lucas Francisco Wanner;lucas francisco wanner;2024;Mestrado;Guilherme Paulino;Orientação;IC explícito;79
+Lucas Francisco Wanner;lucas francisco wanner;2024;Mestrado;Guilherme Paulino;Titular;IC explícito;79
+Rodolfo Jardim de Azevedo;rodolfo jardim de azevedo;2024;Mestrado;Guilherme Paulino;Titular;IC explícito;79
+Sandro Rigo;sandro rigo;2024;Mestrado;Guilherme Paulino;Suplente;IC explícito;79
+Edson Borin;edson borin;2024;Mestrado;Júlio Cesar Faracco;Orientação;IC explícito;80
+Edson Borin;edson borin;2024;Mestrado;Júlio Cesar Faracco;Titular;IC explícito;80
+Hervé Cédric Yviquel;herve cedric yviquel;2024;Mestrado;Júlio Cesar Faracco;Titular;IC explícito;80
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2024;Mestrado;Júlio Cesar Faracco;Suplente;IC explícito;80
+Julio Cesar López Hernández;julio cesar lopez hernandez;2024;Mestrado;Everaldo Antonio Moreira Alves;Orientação;IC explícito;81
+Julio Cesar López Hernández;julio cesar lopez hernandez;2024;Mestrado;Everaldo Antonio Moreira Alves;Titular;IC explícito;81
+Hilder Vitor Lima Pereira;hilder vitor lima pereira;2024;Mestrado;Everaldo Antonio Moreira Alves;Titular;IC explícito;81
+Carlos Alberto Astudillo Trujillo;carlos alberto astudillo trujillo;2024;Mestrado;Everaldo Antonio Moreira Alves;Suplente;IC explícito;81
+Julio Cesar López Hernández;julio cesar lopez hernandez;2024;Mestrado;Vitor Satoru Machi Matsumine;Orientação;IC explícito;82
+Ricardo Dahab;ricardo dahab;2024;Mestrado;Vitor Satoru Machi Matsumine;Coorientação;IC inferido pelo cadastro;82
+Julio Cesar López Hernández;julio cesar lopez hernandez;2024;Mestrado;Vitor Satoru Machi Matsumine;Titular;IC explícito;82
+Hilder Vitor Lima Pereira;hilder vitor lima pereira;2024;Mestrado;Vitor Satoru Machi Matsumine;Titular;IC explícito;82
+Guilherme Pimentel Telles;guilherme pimentel telles;2024;Mestrado;Vitor Satoru Machi Matsumine;Suplente;IC explícito;82
+Marcelo da Silva Reis;marcelo da silva reis;2024;Mestrado;Sadeeq Olalekan Bello;Orientação;IC explícito;83
+Julio Cesar dos Reis;julio cesar dos reis;2024;Mestrado;Sadeeq Olalekan Bello;Coorientação;IC inferido pelo cadastro;83
+Marcelo da Silva Reis;marcelo da silva reis;2024;Mestrado;Sadeeq Olalekan Bello;Titular;IC explícito;83
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2024;Mestrado;Sadeeq Olalekan Bello;Suplente;IC explícito;83
+Lucas Francisco Wanner;lucas francisco wanner;2024;Doutorado;Juliane Regina de Oliveira;Orientação;IC explícito;84
+Lucas Francisco Wanner;lucas francisco wanner;2024;Doutorado;Juliane Regina de Oliveira;Titular;IC explícito;84
+Juliana Freitag Borin;juliana freitag borin;2024;Doutorado;Juliane Regina de Oliveira;Titular;IC explícito;84
+Allan Mariano de Souza;allan mariano de souza;2024;Doutorado;Juliane Regina de Oliveira;Suplente;IC explícito;84
+Maria Cecília Calani Baranauskas;maria cecilia calani baranauskas;2024;Doutorado;Marleny Luque Carbajal;Orientação;IC explícito;85
+Maria Cecília Calani Baranauskas;maria cecilia calani baranauskas;2024;Doutorado;Marleny Luque Carbajal;Titular;IC explícito;85
+Islene Calciolari Garcia;islene calciolari garcia;2024;Doutorado;Marleny Luque Carbajal;Titular;IC explícito;85
+Alexandre Xavier Falcão;alexandre xavier falcao;2024;Doutorado;Italos Estilon da Silva de Souza;Orientação;IC explícito;86
+Alexandre Xavier Falcão;alexandre xavier falcao;2024;Doutorado;Italos Estilon da Silva de Souza;Titular;IC explícito;86
+Hélio Pedrini;helio pedrini;2024;Doutorado;Italos Estilon da Silva de Souza;Titular;IC explícito;86
+Esther Luna Colombini;esther luna colombini;2024;Doutorado;Italos Estilon da Silva de Souza;Titular;IC explícito;86
+Anderson de Rezende Rocha;anderson de rezende rocha;2024;Doutorado;Italos Estilon da Silva de Souza;Suplente;IC explícito;86
+Leandro Aparecido Villas;leandro aparecido villas;2024;Doutorado;Frances Albert Santos;Orientação;IC explícito;87
+Leandro Aparecido Villas;leandro aparecido villas;2024;Doutorado;Frances Albert Santos;Titular;IC explícito;87
+Julio Cesar dos Reis;julio cesar dos reis;2024;Doutorado;Frances Albert Santos;Titular;IC explícito;87
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2024;Doutorado;Frances Albert Santos;Suplente;IC explícito;87
+Hélio Pedrini;helio pedrini;2024;Doutorado;Frances Albert Santos;Suplente;IC explícito;87
+Zanoni Dias;zanoni dias;2024;Doutorado;Alexsandro Oliveira Alexandrino;Orientação;IC explícito;88
+Zanoni Dias;zanoni dias;2024;Doutorado;Alexsandro Oliveira Alexandrino;Titular;IC explícito;88
+Orlando Lee;orlando lee;2024;Doutorado;Alexsandro Oliveira Alexandrino;Titular;IC explícito;88
+Guilherme Pimentel Telles;guilherme pimentel telles;2024;Doutorado;Alexsandro Oliveira Alexandrino;Titular;IC explícito;88
+Fábio Luiz Usberti;fabio luiz usberti;2024;Doutorado;Alexsandro Oliveira Alexandrino;Suplente;IC explícito;88
+Hélio Pedrini;helio pedrini;2024;Doutorado;Jose Luis Flores Campana;Orientação;IC explícito;89
+Helena de Almeida Maia;helena de almeida maia;2024;Doutorado;Jose Luis Flores Campana;Coorientação;IC inferido pelo cadastro;89
+Hélio Pedrini;helio pedrini;2024;Doutorado;Jose Luis Flores Campana;Titular;IC explícito;89
+Marcelo da Silva Reis;marcelo da silva reis;2024;Doutorado;Jose Luis Flores Campana;Titular;IC explícito;89
+Andre Santanche;andre santanche;2024;Doutorado;Jose Luis Flores Campana;Suplente;IC explícito;89
+Anderson de Rezende Rocha;anderson de rezende rocha;2024;Doutorado;Gabriel Capiteli Bertocco;Orientação;IC explícito;90
+Anderson de Rezende Rocha;anderson de rezende rocha;2024;Doutorado;Gabriel Capiteli Bertocco;Titular;IC explícito;90
+Esther Luna Colombini;esther luna colombini;2024;Doutorado;Gabriel Capiteli Bertocco;Titular;IC explícito;90
+Hélio Pedrini;helio pedrini;2024;Doutorado;Gabriel Capiteli Bertocco;Suplente;IC explícito;90
+Jacques Wainer;jacques wainer;2024;Doutorado;Gabriel Capiteli Bertocco;Suplente;IC explícito;90
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2024;Doutorado;Alceu Emanuel Bissoto;Orientação;IC explícito;91
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2024;Doutorado;Alceu Emanuel Bissoto;Titular;IC explícito;91
+Esther Luna Colombini;esther luna colombini;2024;Doutorado;Alceu Emanuel Bissoto;Titular;IC explícito;91
+Julio Cesar dos Reis;julio cesar dos reis;2024;Doutorado;Anderson Rossanez;Orientação;IC explícito;92
+Ricardo da Silva Torres;ricardo da silva torres;2024;Doutorado;Anderson Rossanez;Coorientação;IC inferido pelo cadastro;92
+Julio Cesar dos Reis;julio cesar dos reis;2024;Doutorado;Anderson Rossanez;Titular;IC explícito;92
+Andre Santanche;andre santanche;2024;Doutorado;Anderson Rossanez;Titular;IC explícito;92
+Jacques Wainer;jacques wainer;2024;Doutorado;Anderson Rossanez;Suplente;IC explícito;92
+Julio Cesar dos Reis;julio cesar dos reis;2024;Doutorado;Luiz Aparecido Virginio Junior;Orientação;IC explícito;93
+Julio Cesar dos Reis;julio cesar dos reis;2024;Doutorado;Luiz Aparecido Virginio Junior;Titular;IC explícito;93
+Cecília Mary Fischer Rubira;cecilia mary fischer rubira;2024;Doutorado;Luiz Aparecido Virginio Junior;Suplente;IC explícito;93
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2024;Doutorado;Marcelo Claudio Sousa Araújo;Orientação;IC explícito;94
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2024;Doutorado;Marcelo Claudio Sousa Araújo;Titular;IC explícito;94
+Juliana Freitag Borin;juliana freitag borin;2024;Doutorado;Marcelo Claudio Sousa Araújo;Titular;IC explícito;94
+Sandro Rigo;sandro rigo;2024;Doutorado;Marcelo Claudio Sousa Araújo;Titular;IC explícito;94
+Fábio Luiz Usberti;fabio luiz usberti;2024;Doutorado;Marcelo Claudio Sousa Araújo;Suplente;IC explícito;94
+Allan Mariano de Souza;allan mariano de souza;2024;Doutorado;Marcelo Claudio Sousa Araújo;Suplente;IC explícito;94
+Alexandre Xavier Falcão;alexandre xavier falcao;2024;Doutorado;Bárbara Caroline Benato;Orientação;IC explícito;95
+Alexandre Xavier Falcão;alexandre xavier falcao;2024;Doutorado;Bárbara Caroline Benato;Titular;IC explícito;95
+Anderson de Rezende Rocha;anderson de rezende rocha;2024;Doutorado;Bárbara Caroline Benato;Titular;IC explícito;95
+Guido Costa Souza de Araújo;guido costa souza de araujo;2024;Doutorado;Bárbara Caroline Benato;Titular;IC explícito;95
+Hélio Pedrini;helio pedrini;2024;Doutorado;Leticia da Silva Bomfim;Orientação;IC explícito;96
+Hélio Pedrini;helio pedrini;2024;Doutorado;Leticia da Silva Bomfim;Titular;IC explícito;96
+Andre Santanche;andre santanche;2024;Doutorado;Leticia da Silva Bomfim;Titular;IC explícito;96
+Rodolfo Jardim de Azevedo;rodolfo jardim de azevedo;2024;Doutorado;Eryck Pedro da Silva;Orientação;IC explícito;97
+Rodolfo Jardim de Azevedo;rodolfo jardim de azevedo;2024;Doutorado;Eryck Pedro da Silva;Titular;IC explícito;97
+Jacques Wainer;jacques wainer;2024;Doutorado;Eryck Pedro da Silva;Titular;IC explícito;97
+Julio Cesar dos Reis;julio cesar dos reis;2024;Doutorado;Eryck Pedro da Silva;Titular;IC explícito;97
+Ricardo de Oliveira Anido;ricardo de oliveira anido;2024;Doutorado;Eryck Pedro da Silva;Suplente;IC explícito;97
+Ricardo da Silva Torres;ricardo da silva torres;2024;Doutorado;Filipe Marcel Fernandes Gonçalves;Orientação;IC explícito;98
+Ricardo da Silva Torres;ricardo da silva torres;2024;Doutorado;Filipe Marcel Fernandes Gonçalves;Titular;IC explícito;98
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2024;Doutorado;Filipe Marcel Fernandes Gonçalves;Suplente;IC explícito;98
+Edmundo Roberto Mauro Madeira;edmundo roberto mauro madeira;2024;Doutorado;Diogo Machado Gonçalves;Orientação;IC explícito;99
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2024;Doutorado;Diogo Machado Gonçalves;Coorientação;IC inferido pelo cadastro;99
+Edmundo Roberto Mauro Madeira;edmundo roberto mauro madeira;2024;Doutorado;Diogo Machado Gonçalves;Titular;IC explícito;99
+Carlos Alberto Astudillo Trujillo;carlos alberto astudillo trujillo;2024;Doutorado;Diogo Machado Gonçalves;Titular;IC explícito;99
+Allan Mariano de Souza;allan mariano de souza;2024;Doutorado;Diogo Machado Gonçalves;Suplente;IC explícito;99
+Anderson de Rezende Rocha;anderson de rezende rocha;2024;Doutorado;João Phillipe Cardenuto;Orientação;IC explícito;100
+Anderson de Rezende Rocha;anderson de rezende rocha;2024;Doutorado;João Phillipe Cardenuto;Titular;IC explícito;100
+Hélio Pedrini;helio pedrini;2024;Doutorado;João Phillipe Cardenuto;Suplente;IC explícito;100
+Anderson de Rezende Rocha;anderson de rezende rocha;2024;Doutorado;Jing Yang;Orientação;IC explícito;101
+Anderson de Rezende Rocha;anderson de rezende rocha;2024;Doutorado;Jing Yang;Titular;IC explícito;101
+Marcelo da Silva Reis;marcelo da silva reis;2024;Doutorado;Jing Yang;Titular;IC explícito;101
+Esther Luna Colombini;esther luna colombini;2024;Doutorado;Jing Yang;Suplente;IC explícito;101
+Julio Cesar López Hernández;julio cesar lopez hernandez;2024;Doutorado;Décio Luiz Gazzoni Filho;Orientação;IC explícito;102
+Julio Cesar López Hernández;julio cesar lopez hernandez;2024;Doutorado;Décio Luiz Gazzoni Filho;Titular;IC explícito;102
+Hilder Vitor Lima Pereira;hilder vitor lima pereira;2024;Doutorado;Décio Luiz Gazzoni Filho;Suplente;IC explícito;102
+Pedro Jussieu de Rezende;pedro jussieu de rezende;2024;Doutorado;Felipe de Carvalho Pereira;Orientação;IC explícito;103
+Pedro Jussieu de Rezende;pedro jussieu de rezende;2024;Doutorado;Felipe de Carvalho Pereira;Titular;IC explícito;103
+Santiago Valdés Ravelo;santiago valdes ravelo;2024;Doutorado;Felipe de Carvalho Pereira;Titular;IC explícito;103
+Ruben Interian;ruben interian;2024;Doutorado;Felipe de Carvalho Pereira;Suplente;IC explícito;103
+Maria Cecília Calani Baranauskas;maria cecilia calani baranauskas;2024;Doutorado;Luã Marcelo Muriana;Orientação;IC explícito;104
+Maria Cecília Calani Baranauskas;maria cecilia calani baranauskas;2024;Doutorado;Luã Marcelo Muriana;Titular;IC explícito;104
+Julio Cesar dos Reis;julio cesar dos reis;2024;Doutorado;Luã Marcelo Muriana;Suplente;IC explícito;104
+Hélio Pedrini;helio pedrini;2025;Mestrado;Heigon Alafaire Soldera Pires;Orientação;IC explícito;105
+Hélio Pedrini;helio pedrini;2025;Mestrado;Heigon Alafaire Soldera Pires;Titular;IC explícito;105
+Andre Santanche;andre santanche;2025;Mestrado;Heigon Alafaire Soldera Pires;Titular;IC explícito;105
+Helena de Almeida Maia;helena de almeida maia;2025;Mestrado;Heigon Alafaire Soldera Pires;Suplente;IC explícito;105
+Alexandre Xavier Falcão;alexandre xavier falcao;2025;Mestrado;Táylla Milena Theodoro;Orientação;IC explícito;106
+Alexandre Xavier Falcão;alexandre xavier falcao;2025;Mestrado;Táylla Milena Theodoro;Titular;IC explícito;106
+Hélio Pedrini;helio pedrini;2025;Mestrado;Táylla Milena Theodoro;Titular;IC explícito;106
+Flávio Keidi Miyazawa;flavio keidi miyazawa;2025;Mestrado;Lucas Guesser Targino da Silva;Orientação;IC explícito;107
+Flávio Keidi Miyazawa;flavio keidi miyazawa;2025;Mestrado;Lucas Guesser Targino da Silva;Titular;IC explícito;107
+Fábio Luiz Usberti;fabio luiz usberti;2025;Mestrado;Lucas Guesser Targino da Silva;Suplente;IC explícito;107
+Edson Borin;edson borin;2025;Mestrado;Leonardo Henrique Neumann;Orientação;IC explícito;108
+Edson Borin;edson borin;2025;Mestrado;Leonardo Henrique Neumann;Titular;IC explícito;108
+Hilder Vitor Lima Pereira;hilder vitor lima pereira;2025;Mestrado;Leonardo Henrique Neumann;Titular;IC explícito;108
+Allan Mariano de Souza;allan mariano de souza;2025;Mestrado;Leonardo Henrique Neumann;Suplente;IC explícito;108
+Edson Borin;edson borin;2025;Mestrado;Gabriel Borges Gutierrez;Orientação;IC explícito;109
+Edson Borin;edson borin;2025;Mestrado;Gabriel Borges Gutierrez;Titular;IC explícito;109
+Marcelo da Silva Reis;marcelo da silva reis;2025;Mestrado;Gabriel Borges Gutierrez;Titular;IC explícito;109
+Esther Luna Colombini;esther luna colombini;2025;Mestrado;Gabriel Borges Gutierrez;Suplente;IC explícito;109
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;João Victor Palhares Barbosa Avanzini;Orientação;IC explícito;110
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;João Victor Palhares Barbosa Avanzini;Titular;IC explícito;110
+Anderson de Rezende Rocha;anderson de rezende rocha;2025;Mestrado;João Victor Palhares Barbosa Avanzini;Titular;IC explícito;110
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2025;Mestrado;João Victor Palhares Barbosa Avanzini;Suplente;IC explícito;110
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2025;Mestrado;Luiz Fellipe Machi Pereira;Orientação;IC explícito;111
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2025;Mestrado;Luiz Fellipe Machi Pereira;Titular;IC explícito;111
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Luiz Fellipe Machi Pereira;Titular;IC explícito;111
+Leandro Aparecido Villas;leandro aparecido villas;2025;Mestrado;Luiz Fellipe Machi Pereira;Suplente;IC explícito;111
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2025;Mestrado;Sandro Henrique Uliana Catabriga;Orientação;IC explícito;112
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2025;Mestrado;Sandro Henrique Uliana Catabriga;Titular;IC explícito;112
+Ruben Interian;ruben interian;2025;Mestrado;Sandro Henrique Uliana Catabriga;Titular;IC explícito;112
+Santiago Valdés Ravelo;santiago valdes ravelo;2025;Mestrado;Sandro Henrique Uliana Catabriga;Suplente;IC explícito;112
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Jansen Silva de Brito Pereira;Orientação;IC explícito;113
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Jansen Silva de Brito Pereira;Titular;IC explícito;113
+Jacques Wainer;jacques wainer;2025;Mestrado;Jansen Silva de Brito Pereira;Suplente;IC explícito;113
+Breno Bernard Nicolau de França;breno bernard nicolau de franca;2025;Mestrado;André Luiz do Canto Portela;Orientação;IC explícito;114
+Breno Bernard Nicolau de França;breno bernard nicolau de franca;2025;Mestrado;André Luiz do Canto Portela;Titular;IC explícito;114
+Bruno Barbieri de Pontes Cafeo;bruno barbieri de pontes cafeo;2025;Mestrado;André Luiz do Canto Portela;Titular;IC explícito;114
+Leonardo Montecchi;leonardo montecchi;2025;Mestrado;André Luiz do Canto Portela;Suplente;IC explícito;114
+Lehilton Lelis Chaves Pedrosa;lehilton lelis chaves pedrosa;2025;Mestrado;Lucas de Oliveira Silva;Orientação;IC explícito;115
+Lehilton Lelis Chaves Pedrosa;lehilton lelis chaves pedrosa;2025;Mestrado;Lucas de Oliveira Silva;Titular;IC explícito;115
+Orlando Lee;orlando lee;2025;Mestrado;Lucas de Oliveira Silva;Titular;IC explícito;115
+Flávio Keidi Miyazawa;flavio keidi miyazawa;2025;Mestrado;Lucas de Oliveira Silva;Suplente;IC explícito;115
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2025;Mestrado;Ieremies Vieira da Fonseca Romero;Orientação;IC explícito;116
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2025;Mestrado;Ieremies Vieira da Fonseca Romero;Titular;IC explícito;116
+Flávio Keidi Miyazawa;flavio keidi miyazawa;2025;Mestrado;Ieremies Vieira da Fonseca Romero;Titular;IC explícito;116
+Santiago Valdés Ravelo;santiago valdes ravelo;2025;Mestrado;Ieremies Vieira da Fonseca Romero;Suplente;IC explícito;116
+Nelson Luis Saldanha da Fonseca;nelson luis saldanha da fonseca;2025;Mestrado;Giancarlo Maldonado Cárdenas;Orientação;IC explícito;117
+Carlos Alberto Astudillo Trujillo;carlos alberto astudillo trujillo;2025;Mestrado;Giancarlo Maldonado Cárdenas;Coorientação;IC inferido pelo cadastro;117
+Nelson Luis Saldanha da Fonseca;nelson luis saldanha da fonseca;2025;Mestrado;Giancarlo Maldonado Cárdenas;Titular;IC explícito;117
+Allan Mariano de Souza;allan mariano de souza;2025;Mestrado;Giancarlo Maldonado Cárdenas;Suplente;IC explícito;117
+Christiane Neme Campos;christiane neme campos;2025;Mestrado;Adilson Luis Jönck Júnior;Orientação;IC explícito;118
+Christiane Neme Campos;christiane neme campos;2025;Mestrado;Adilson Luis Jönck Júnior;Titular;IC explícito;118
+Lehilton Lelis Chaves Pedrosa;lehilton lelis chaves pedrosa;2025;Mestrado;Adilson Luis Jönck Júnior;Titular;IC explícito;118
+João Meidanis;joao meidanis;2025;Mestrado;Adilson Luis Jönck Júnior;Suplente;IC explícito;118
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Beatriz Cardoso Nascimento;Orientação;IC explícito;119
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Beatriz Cardoso Nascimento;Titular;IC explícito;119
+Lehilton Lelis Chaves Pedrosa;lehilton lelis chaves pedrosa;2025;Mestrado;Beatriz Cardoso Nascimento;Titular;IC explícito;119
+Marcelo da Silva Reis;marcelo da silva reis;2025;Mestrado;Beatriz Cardoso Nascimento;Suplente;IC explícito;119
+Juliana Freitag Borin;juliana freitag borin;2025;Mestrado;Gabriel Massuyoshi Sato;Orientação;IC explícito;120
+Juliana Freitag Borin;juliana freitag borin;2025;Mestrado;Gabriel Massuyoshi Sato;Titular;IC explícito;120
+Allan Mariano de Souza;allan mariano de souza;2025;Mestrado;Gabriel Massuyoshi Sato;Titular;IC explícito;120
+Sandro Rigo;sandro rigo;2025;Mestrado;Gabriel Massuyoshi Sato;Suplente;IC explícito;120
+Andre Santanche;andre santanche;2025;Mestrado;Talles Viana Vargas;Orientação;IC explícito;121
+Hélio Pedrini;helio pedrini;2025;Mestrado;Talles Viana Vargas;Coorientação;IC inferido pelo cadastro;121
+Andre Santanche;andre santanche;2025;Mestrado;Talles Viana Vargas;Titular;IC explícito;121
+Marcelo da Silva Reis;marcelo da silva reis;2025;Mestrado;Talles Viana Vargas;Suplente;IC explícito;121
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2025;Mestrado;Matteus Vargas Simão da Silva;Orientação;IC explícito;122
+Gerberth Adín Ramírez Rivera;gerberth adin ramirez rivera;2025;Mestrado;Matteus Vargas Simão da Silva;Coorientação;IC inferido pelo cadastro;122
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2025;Mestrado;Matteus Vargas Simão da Silva;Titular;IC explícito;122
+Carlos Alberto Astudillo Trujillo;carlos alberto astudillo trujillo;2025;Mestrado;Matteus Vargas Simão da Silva;Titular;IC explícito;122
+Leandro Aparecido Villas;leandro aparecido villas;2025;Mestrado;Matteus Vargas Simão da Silva;Suplente;IC explícito;122
+Hélio Pedrini;helio pedrini;2025;Mestrado;Christian Massao Konishi;Orientação;IC explícito;123
+Hélio Pedrini;helio pedrini;2025;Mestrado;Christian Massao Konishi;Titular;IC explícito;123
+Andre Santanche;andre santanche;2025;Mestrado;Christian Massao Konishi;Titular;IC explícito;123
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2025;Mestrado;Luiz Fernando Rodrigues da Fonseca;Orientação;IC explícito;124
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2025;Mestrado;Luiz Fernando Rodrigues da Fonseca;Titular;IC explícito;124
+Allan Mariano de Souza;allan mariano de souza;2025;Mestrado;Luiz Fernando Rodrigues da Fonseca;Titular;IC explícito;124
+Hélio Pedrini;helio pedrini;2025;Mestrado;Luiz Fernando Rodrigues da Fonseca;Suplente;IC explícito;124
+Breno Bernard Nicolau de França;breno bernard nicolau de franca;2025;Mestrado;Gustavo Frederico Temple Pedrosa;Orientação;IC explícito;125
+Bruno Barbieri de Pontes Cafeo;bruno barbieri de pontes cafeo;2025;Mestrado;Gustavo Frederico Temple Pedrosa;Coorientação;IC inferido pelo cadastro;125
+Breno Bernard Nicolau de França;breno bernard nicolau de franca;2025;Mestrado;Gustavo Frederico Temple Pedrosa;Titular;IC explícito;125
+Edson Borin;edson borin;2025;Mestrado;Gustavo Frederico Temple Pedrosa;Titular;IC explícito;125
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2025;Mestrado;Gustavo Frederico Temple Pedrosa;Suplente;IC explícito;125
+Fábio Luiz Usberti;fabio luiz usberti;2025;Mestrado;Enzo Falchi Gaban;Orientação;IC explícito;126
+Pedro Henrique Del Bianco Hokama;pedro henrique del bianco hokama;2025;Mestrado;Enzo Falchi Gaban;Coorientação;IC inferido pelo cadastro;126
+Fábio Luiz Usberti;fabio luiz usberti;2025;Mestrado;Enzo Falchi Gaban;Titular;IC explícito;126
+Ruben Interian;ruben interian;2025;Mestrado;Enzo Falchi Gaban;Titular;IC explícito;126
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Enzo Falchi Gaban;Suplente;IC explícito;126
+Edson Borin;edson borin;2025;Mestrado;Daniel De Lucca Fonseca;Orientação;IC explícito;127
+Edson Borin;edson borin;2025;Mestrado;Daniel De Lucca Fonseca;Titular;IC explícito;127
+Rodolfo Jardim de Azevedo;rodolfo jardim de azevedo;2025;Mestrado;Daniel De Lucca Fonseca;Titular;IC explícito;127
+Sandro Rigo;sandro rigo;2025;Mestrado;Daniel De Lucca Fonseca;Suplente;IC explícito;127
+Alexandre Xavier Falcão;alexandre xavier falcao;2025;Mestrado;Felipe Crispim da Rocha Salvagnini;Orientação;IC explícito;128
+Alexandre Xavier Falcão;alexandre xavier falcao;2025;Mestrado;Felipe Crispim da Rocha Salvagnini;Titular;IC explícito;128
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Felipe Crispim da Rocha Salvagnini;Suplente;IC explícito;128
+Alexandre Xavier Falcão;alexandre xavier falcao;2025;Mestrado;Gilson Júnior Soares;Orientação;IC explícito;129
+Alexandre Xavier Falcão;alexandre xavier falcao;2025;Mestrado;Gilson Júnior Soares;Titular;IC explícito;129
+Marcelo da Silva Reis;marcelo da silva reis;2025;Mestrado;Gilson Júnior Soares;Titular;IC explícito;129
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Gilson Júnior Soares;Suplente;IC explícito;129
+Marcelo da Silva Reis;marcelo da silva reis;2025;Mestrado;Giorgio de Moraes Rossa;Orientação;IC explícito;130
+Marcelo da Silva Reis;marcelo da silva reis;2025;Mestrado;Giorgio de Moraes Rossa;Titular;IC explícito;130
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Giorgio de Moraes Rossa;Titular;IC explícito;130
+Andre Santanche;andre santanche;2025;Mestrado;Giorgio de Moraes Rossa;Suplente;IC explícito;130
+Allan Mariano de Souza;allan mariano de souza;2025;Mestrado;David de Melo Almeida dos Reis;Orientação;IC explícito;131
+Allan Mariano de Souza;allan mariano de souza;2025;Mestrado;David de Melo Almeida dos Reis;Titular;IC explícito;131
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2025;Mestrado;David de Melo Almeida dos Reis;Titular;IC explícito;131
+Juliana Freitag Borin;juliana freitag borin;2025;Mestrado;David de Melo Almeida dos Reis;Suplente;IC explícito;131
+Sandro Rigo;sandro rigo;2025;Mestrado;Thiago José Mazarão Maltempi;Orientação;IC explícito;132
+Sandro Rigo;sandro rigo;2025;Mestrado;Thiago José Mazarão Maltempi;Titular;IC explícito;132
+Rodolfo Jardim de Azevedo;rodolfo jardim de azevedo;2025;Mestrado;Thiago José Mazarão Maltempi;Titular;IC explícito;132
+Lucas Francisco Wanner;lucas francisco wanner;2025;Mestrado;Thiago José Mazarão Maltempi;Suplente;IC explícito;132
+Esther Luna Colombini;esther luna colombini;2025;Mestrado;Jesús Francisco Paucar Escalante;Orientação;IC explícito;133
+Esther Luna Colombini;esther luna colombini;2025;Mestrado;Jesús Francisco Paucar Escalante;Titular;IC explícito;133
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2025;Mestrado;Jesús Francisco Paucar Escalante;Titular;IC explícito;133
+Anderson de Rezende Rocha;anderson de rezende rocha;2025;Mestrado;Jesús Francisco Paucar Escalante;Suplente;IC explícito;133
+Edson Borin;edson borin;2025;Mestrado;João Alberto Moreira Seródio;Orientação;IC explícito;134
+Edson Borin;edson borin;2025;Mestrado;João Alberto Moreira Seródio;Titular;IC explícito;134
+Hervé Cédric Yviquel;herve cedric yviquel;2025;Mestrado;João Alberto Moreira Seródio;Titular;IC explícito;134
+Lucas Francisco Wanner;lucas francisco wanner;2025;Mestrado;João Alberto Moreira Seródio;Suplente;IC explícito;134
+Marcelo da Silva Reis;marcelo da silva reis;2025;Mestrado;Juliano Leonardo Soares;Orientação;IC explícito;135
+Marcelo da Silva Reis;marcelo da silva reis;2025;Mestrado;Juliano Leonardo Soares;Titular;IC explícito;135
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Juliano Leonardo Soares;Titular;IC explícito;135
+Andre Santanche;andre santanche;2025;Mestrado;Juliano Leonardo Soares;Suplente;IC explícito;135
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Daniel Gardin Gratti;Orientação;IC explícito;136
+Esther Luna Colombini;esther luna colombini;2025;Mestrado;Daniel Gardin Gratti;Coorientação;IC inferido pelo cadastro;136
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Daniel Gardin Gratti;Titular;IC explícito;136
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2025;Mestrado;Daniel Gardin Gratti;Titular;IC explícito;136
+Fábio Luiz Usberti;fabio luiz usberti;2025;Mestrado;Daniel Gardin Gratti;Suplente;IC explícito;136
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2025;Mestrado;Gabriel de Souza Ribeiro;Orientação;IC explícito;137
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2025;Mestrado;Gabriel de Souza Ribeiro;Titular;IC explícito;137
+Juliana Freitag Borin;juliana freitag borin;2025;Mestrado;Gabriel de Souza Ribeiro;Titular;IC explícito;137
+Islene Calciolari Garcia;islene calciolari garcia;2025;Mestrado;Gabriel de Souza Ribeiro;Suplente;IC explícito;137
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Aline Cavalca Carvalho Soares de Azevedo;Orientação;IC explícito;138
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Aline Cavalca Carvalho Soares de Azevedo;Titular;IC explícito;138
+Anderson de Rezende Rocha;anderson de rezende rocha;2025;Mestrado;Aline Cavalca Carvalho Soares de Azevedo;Suplente;IC explícito;138
+Islene Calciolari Garcia;islene calciolari garcia;2025;Mestrado;Pedro Demarchi Gomes;Orientação;IC explícito;139
+Islene Calciolari Garcia;islene calciolari garcia;2025;Mestrado;Pedro Demarchi Gomes;Titular;IC explícito;139
+Hervé Cédric Yviquel;herve cedric yviquel;2025;Mestrado;Pedro Demarchi Gomes;Titular;IC explícito;139
+Edson Borin;edson borin;2025;Mestrado;Pedro Demarchi Gomes;Suplente;IC explícito;139
+Esther Luna Colombini;esther luna colombini;2025;Mestrado;Rafael Figueiredo Prudencio;Orientação;IC explícito;140
+Esther Luna Colombini;esther luna colombini;2025;Mestrado;Rafael Figueiredo Prudencio;Titular;IC explícito;140
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Rafael Figueiredo Prudencio;Titular;IC explícito;140
+Breno Bernard Nicolau de França;breno bernard nicolau de franca;2025;Mestrado;Alline Dias de Araújo;Orientação;IC explícito;141
+Breno Bernard Nicolau de França;breno bernard nicolau de franca;2025;Mestrado;Alline Dias de Araújo;Titular;IC explícito;141
+Cecília Mary Fischer Rubira;cecilia mary fischer rubira;2025;Mestrado;Alline Dias de Araújo;Titular;IC explícito;141
+Bruno Barbieri de Pontes Cafeo;bruno barbieri de pontes cafeo;2025;Mestrado;Alline Dias de Araújo;Suplente;IC explícito;141
+Jacques Wainer;jacques wainer;2025;Mestrado;Fábio Akahoshi Collado;Orientação;IC explícito;142
+Jacques Wainer;jacques wainer;2025;Mestrado;Fábio Akahoshi Collado;Titular;IC explícito;142
+Julio Cesar dos Reis;julio cesar dos reis;2025;Mestrado;Fábio Akahoshi Collado;Titular;IC explícito;142
+Rodolfo Jardim de Azevedo;rodolfo jardim de azevedo;2025;Mestrado;Fábio Akahoshi Collado;Suplente;IC explícito;142
+Alexandre Xavier Falcão;alexandre xavier falcao;2025;Mestrado;Marcelo Luis Rodrigues Filho;Orientação;IC explícito;143
+Alexandre Xavier Falcão;alexandre xavier falcao;2025;Mestrado;Marcelo Luis Rodrigues Filho;Titular;IC explícito;143
+Marcelo da Silva Reis;marcelo da silva reis;2025;Mestrado;Marcelo Luis Rodrigues Filho;Titular;IC explícito;143
+Hélio Pedrini;helio pedrini;2025;Mestrado;Marcelo Luis Rodrigues Filho;Suplente;IC explícito;143
+Breno Bernard Nicolau de França;breno bernard nicolau de franca;2025;Mestrado;Leonardo Henrique de Braz;Orientação;IC explícito;144
+Bruno Barbieri de Pontes Cafeo;bruno barbieri de pontes cafeo;2025;Mestrado;Leonardo Henrique de Braz;Coorientação;IC inferido pelo cadastro;144
+Breno Bernard Nicolau de França;breno bernard nicolau de franca;2025;Mestrado;Leonardo Henrique de Braz;Titular;IC explícito;144
+Andre Santanche;andre santanche;2025;Mestrado;Leonardo Henrique de Braz;Titular;IC explícito;144
+Cecília Mary Fischer Rubira;cecilia mary fischer rubira;2025;Mestrado;Leonardo Henrique de Braz;Suplente;IC explícito;144
+Anderson de Rezende Rocha;anderson de rezende rocha;2025;Mestrado;Jadson Crislan Santos Costa;Orientação;IC explícito;145
+Anderson de Rezende Rocha;anderson de rezende rocha;2025;Mestrado;Jadson Crislan Santos Costa;Titular;IC explícito;145
+Hélio Pedrini;helio pedrini;2025;Mestrado;Jadson Crislan Santos Costa;Titular;IC explícito;145
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Jadson Crislan Santos Costa;Suplente;IC explícito;145
+Marcelo da Silva Reis;marcelo da silva reis;2025;Mestrado;Giovana Kerche Bonás;Orientação;IC explícito;146
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Mestrado;Giovana Kerche Bonás;Coorientação;IC inferido pelo cadastro;146
+Marcelo da Silva Reis;marcelo da silva reis;2025;Mestrado;Giovana Kerche Bonás;Titular;IC explícito;146
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2025;Mestrado;Giovana Kerche Bonás;Titular;IC explícito;146
+Esther Luna Colombini;esther luna colombini;2025;Mestrado;Giovana Kerche Bonás;Suplente;IC explícito;146
+Nelson Luis Saldanha da Fonseca;nelson luis saldanha da fonseca;2025;Mestrado;Yeison Stiven Murcia Calvo;Orientação;IC explícito;147
+Nelson Luis Saldanha da Fonseca;nelson luis saldanha da fonseca;2025;Mestrado;Yeison Stiven Murcia Calvo;Titular;IC explícito;147
+Marcelo da Silva Reis;marcelo da silva reis;2025;Mestrado;Yeison Stiven Murcia Calvo;Titular;IC explícito;147
+Julio Cesar dos Reis;julio cesar dos reis;2025;Mestrado;Yeison Stiven Murcia Calvo;Suplente;IC explícito;147
+Anderson de Rezende Rocha;anderson de rezende rocha;2025;Doutorado;José Dorivaldo Nascimento Souza Junior;Orientação;IC explícito;148
+Anderson de Rezende Rocha;anderson de rezende rocha;2025;Doutorado;José Dorivaldo Nascimento Souza Junior;Titular;IC explícito;148
+Marcelo da Silva Reis;marcelo da silva reis;2025;Doutorado;José Dorivaldo Nascimento Souza Junior;Titular;IC explícito;148
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Doutorado;José Dorivaldo Nascimento Souza Junior;Suplente;IC explícito;148
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2025;Doutorado;Mauro Roberto Costa da Silva;Orientação;IC explícito;149
+Lehilton Lelis Chaves Pedrosa;lehilton lelis chaves pedrosa;2025;Doutorado;Mauro Roberto Costa da Silva;Coorientação;IC inferido pelo cadastro;149
+Rafael Crivellari Saliba Schouery;rafael crivellari saliba schouery;2025;Doutorado;Mauro Roberto Costa da Silva;Titular;IC explícito;149
+Santiago Valdés Ravelo;santiago valdes ravelo;2025;Doutorado;Mauro Roberto Costa da Silva;Titular;IC explícito;149
+Ruben Interian;ruben interian;2025;Doutorado;Mauro Roberto Costa da Silva;Suplente;IC explícito;149
+Leandro Aparecido Villas;leandro aparecido villas;2025;Doutorado;Wellington Viana Lobato Junior;Orientação;IC explícito;150
+Leandro Aparecido Villas;leandro aparecido villas;2025;Doutorado;Wellington Viana Lobato Junior;Titular;IC explícito;150
+Juliana Freitag Borin;juliana freitag borin;2025;Doutorado;Wellington Viana Lobato Junior;Titular;IC explícito;150
+Lucas Francisco Wanner;lucas francisco wanner;2025;Doutorado;Wellington Viana Lobato Junior;Titular;IC explícito;150
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2025;Doutorado;Wellington Viana Lobato Junior;Suplente;IC explícito;150
+Hélio Pedrini;helio pedrini;2025;Doutorado;Guilherme Vieira Leite;Orientação;IC explícito;151
+Hélio Pedrini;helio pedrini;2025;Doutorado;Guilherme Vieira Leite;Titular;IC explícito;151
+Andre Santanche;andre santanche;2025;Doutorado;Guilherme Vieira Leite;Suplente;IC explícito;151
+Alexandre Xavier Falcão;alexandre xavier falcao;2025;Doutorado;Felipe de Castro Belém;Orientação;IC explícito;152
+Alexandre Xavier Falcão;alexandre xavier falcao;2025;Doutorado;Felipe de Castro Belém;Titular;"Unicamp sem unidade; IC pelo cadastro";152
+Hélio Pedrini;helio pedrini;2025;Doutorado;Paulo Henrique Junqueira Amorim;Orientação;IC explícito;153
+Hélio Pedrini;helio pedrini;2025;Doutorado;Paulo Henrique Junqueira Amorim;Titular;IC explícito;153
+Helena de Almeida Maia;helena de almeida maia;2025;Doutorado;Paulo Henrique Junqueira Amorim;Titular;IC explícito;153
+Guilherme Pimentel Telles;guilherme pimentel telles;2025;Doutorado;Lise Rommel Romero Navarrete;Orientação;IC explícito;154
+Guilherme Pimentel Telles;guilherme pimentel telles;2025;Doutorado;Lise Rommel Romero Navarrete;Titular;IC explícito;154
+João Meidanis;joao meidanis;2025;Doutorado;Lise Rommel Romero Navarrete;Titular;IC explícito;154
+Lehilton Lelis Chaves Pedrosa;lehilton lelis chaves pedrosa;2025;Doutorado;Lise Rommel Romero Navarrete;Titular;IC explícito;154
+Zanoni Dias;zanoni dias;2025;Doutorado;Lise Rommel Romero Navarrete;Suplente;IC explícito;154
+Hélio Pedrini;helio pedrini;2025;Doutorado;Alexandre Ribeiro Lopes;Orientação;IC explícito;155
+Hélio Pedrini;helio pedrini;2025;Doutorado;Alexandre Ribeiro Lopes;Titular;IC explícito;155
+Marcelo da Silva Reis;marcelo da silva reis;2025;Doutorado;Alexandre Ribeiro Lopes;Titular;IC explícito;155
+Juliana Freitag Borin;juliana freitag borin;2025;Doutorado;Priscila Aparecida de Moraes;Orientação;IC explícito;156
+Juliana Freitag Borin;juliana freitag borin;2025;Doutorado;Priscila Aparecida de Moraes;Titular;IC explícito;156
+Edmundo Roberto Mauro Madeira;edmundo roberto mauro madeira;2025;Doutorado;Priscila Aparecida de Moraes;Titular;IC explícito;156
+Cecília Mary Fischer Rubira;cecilia mary fischer rubira;2025;Doutorado;Priscila Aparecida de Moraes;Titular;IC explícito;156
+Islene Calciolari Garcia;islene calciolari garcia;2025;Doutorado;Priscila Aparecida de Moraes;Suplente;IC explícito;156
+Esther Luna Colombini;esther luna colombini;2025;Doutorado;Alana de Santana Correia;Orientação;IC explícito;157
+Esther Luna Colombini;esther luna colombini;2025;Doutorado;Alana de Santana Correia;Titular;IC explícito;157
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2025;Doutorado;Alana de Santana Correia;Titular;IC explícito;157
+Hélio Pedrini;helio pedrini;2025;Doutorado;Alana de Santana Correia;Titular;IC explícito;157
+Anderson de Rezende Rocha;anderson de rezende rocha;2025;Doutorado;Alana de Santana Correia;Suplente;IC explícito;157
+Esther Luna Colombini;esther luna colombini;2025;Doutorado;Letícia Mara Berto;Orientação;IC explícito;158
+Esther Luna Colombini;esther luna colombini;2025;Doutorado;Letícia Mara Berto;Titular;IC explícito;158
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2025;Doutorado;Letícia Mara Berto;Titular;IC explícito;158
+Julio Cesar dos Reis;julio cesar dos reis;2025;Doutorado;Letícia Mara Berto;Suplente;IC explícito;158
+Julio Cesar dos Reis;julio cesar dos reis;2025;Doutorado;André Gomes Regino;Orientação;IC explícito;159
+Julio Cesar dos Reis;julio cesar dos reis;2025;Doutorado;André Gomes Regino;Titular;IC explícito;159
+Allan Mariano de Souza;allan mariano de souza;2025;Doutorado;André Gomes Regino;Titular;IC explícito;159
+Rodolfo Jardim de Azevedo;rodolfo jardim de azevedo;2025;Doutorado;Maurício Gagliardi Palma;Orientação;IC explícito;160
+Rodolfo Jardim de Azevedo;rodolfo jardim de azevedo;2025;Doutorado;Maurício Gagliardi Palma;Titular;IC explícito;160
+Hervé Cédric Yviquel;herve cedric yviquel;2025;Doutorado;Maurício Gagliardi Palma;Titular;IC explícito;160
+Lucas Francisco Wanner;lucas francisco wanner;2025;Doutorado;Maurício Gagliardi Palma;Titular;IC explícito;160
+Sandro Rigo;sandro rigo;2025;Doutorado;Maurício Gagliardi Palma;Suplente;IC explícito;160
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2025;Doutorado;Eduardo de Souza Gama;Orientação;IC explícito;161
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2025;Doutorado;Eduardo de Souza Gama;Titular;IC explícito;161
+Juliana Freitag Borin;juliana freitag borin;2025;Doutorado;Eduardo de Souza Gama;Titular;IC explícito;161
+Rodolfo Jardim de Azevedo;rodolfo jardim de azevedo;2025;Doutorado;Eduardo de Souza Gama;Titular;IC explícito;161
+Sandro Rigo;sandro rigo;2025;Doutorado;Eduardo de Souza Gama;Suplente;IC explícito;161
+Hélio Pedrini;helio pedrini;2025;Doutorado;Luís Gustavo Lorgus Decker;Orientação;IC explícito;162
+Helena de Almeida Maia;helena de almeida maia;2025;Doutorado;Luís Gustavo Lorgus Decker;Coorientação;IC inferido pelo cadastro;162
+Hélio Pedrini;helio pedrini;2025;Doutorado;Luís Gustavo Lorgus Decker;Titular;IC explícito;162
+Andre Santanche;andre santanche;2025;Doutorado;Luís Gustavo Lorgus Decker;Titular;IC explícito;162
+Anderson de Rezende Rocha;anderson de rezende rocha;2025;Doutorado;Soroor Salavati;Orientação;IC explícito;163
+Anderson de Rezende Rocha;anderson de rezende rocha;2025;Doutorado;Soroor Salavati;Titular;IC explícito;163
+Marcelo da Silva Reis;marcelo da silva reis;2025;Doutorado;Soroor Salavati;Titular;IC explícito;163
+Helena de Almeida Maia;helena de almeida maia;2025;Doutorado;Soroor Salavati;Suplente;IC explícito;163
+Claudia Maria Bauzer Medeiros;claudia maria bauzer medeiros;2025;Doutorado;Fagner Leal Pantoja;Orientação;IC explícito;164
+Andre Santanche;andre santanche;2025;Doutorado;Fagner Leal Pantoja;Coorientação;IC inferido pelo cadastro;164
+Claudia Maria Bauzer Medeiros;claudia maria bauzer medeiros;2025;Doutorado;Fagner Leal Pantoja;Titular;IC explícito;164
+Ariadne Maria Brito Rizzoni Carvalho;ariadne maria brito rizzoni carvalho;2025;Doutorado;Fagner Leal Pantoja;Titular;IC explícito;164
+Hélio Pedrini;helio pedrini;2025;Doutorado;Fagner Leal Pantoja;Titular;IC explícito;164
+Eliane Martins;eliane martins;2025;Doutorado;Fagner Leal Pantoja;Suplente;IC explícito;164
+Zanoni Dias;zanoni dias;2025;Doutorado;Gabriel Bianchin de Oliveira;Orientação;IC explícito;165
+Hélio Pedrini;helio pedrini;2025;Doutorado;Gabriel Bianchin de Oliveira;Coorientação;IC inferido pelo cadastro;165
+Zanoni Dias;zanoni dias;2025;Doutorado;Gabriel Bianchin de Oliveira;Titular;IC explícito;165
+Guilherme Pimentel Telles;guilherme pimentel telles;2025;Doutorado;Gabriel Bianchin de Oliveira;Titular;IC explícito;165
+Marcelo da Silva Reis;marcelo da silva reis;2025;Doutorado;Gabriel Bianchin de Oliveira;Titular;IC explícito;165
+Alexandre Xavier Falcão;alexandre xavier falcao;2025;Doutorado;Leonardo de Mélo João;Orientação;IC explícito;166
+Alexandre Xavier Falcão;alexandre xavier falcao;2025;Doutorado;Leonardo de Mélo João;Titular;IC explícito;166
+Marcelo da Silva Reis;marcelo da silva reis;2025;Doutorado;Leonardo de Mélo João;Titular;IC explícito;166
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Doutorado;Leonardo de Mélo João;Suplente;IC explícito;166
+Hélio Pedrini;helio pedrini;2025;Doutorado;Leandro Stival;Orientação;IC explícito;167
+Ricardo da Silva Torres;ricardo da silva torres;2025;Doutorado;Leandro Stival;Coorientação;IC inferido pelo cadastro;167
+Hélio Pedrini;helio pedrini;2025;Doutorado;Leandro Stival;Titular;IC explícito;167
+Marcelo da Silva Reis;marcelo da silva reis;2025;Doutorado;Leandro Stival;Titular;IC explícito;167
+Andre Santanche;andre santanche;2025;Doutorado;Leandro Stival;Suplente;IC explícito;167
+Edson Borin;edson borin;2025;Doutorado;Jeferson Rech Brunetta;Orientação;IC explícito;168
+Juliana Freitag Borin;juliana freitag borin;2025;Doutorado;Jeferson Rech Brunetta;Coorientação;IC inferido pelo cadastro;168
+Edson Borin;edson borin;2025;Doutorado;Jeferson Rech Brunetta;Titular;IC explícito;168
+Luiz Fernando Bittencourt;luiz fernando bittencourt;2025;Doutorado;Jeferson Rech Brunetta;Titular;IC explícito;168
+Sandro Rigo;sandro rigo;2025;Doutorado;Jeferson Rech Brunetta;Titular;IC explícito;168
+Hervé Cédric Yviquel;herve cedric yviquel;2025;Doutorado;Jeferson Rech Brunetta;Suplente;IC explícito;168
+Julio Cesar dos Reis;julio cesar dos reis;2025;Doutorado;Geovanna Evelyn Espinoza Taype;Orientação;IC explícito;169
+Maria Cecília Calani Baranauskas;maria cecilia calani baranauskas;2025;Doutorado;Geovanna Evelyn Espinoza Taype;Coorientação;IC inferido pelo cadastro;169
+Julio Cesar dos Reis;julio cesar dos reis;2025;Doutorado;Geovanna Evelyn Espinoza Taype;Titular;IC explícito;169
+Breno Bernard Nicolau de França;breno bernard nicolau de franca;2025;Doutorado;Geovanna Evelyn Espinoza Taype;Suplente;IC explícito;169
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2025;Doutorado;Diego Alysson Braga Moreira;Orientação;IC explícito;170
+Hélio Pedrini;helio pedrini;2025;Doutorado;Diego Alysson Braga Moreira;Coorientação;IC inferido pelo cadastro;170
+Sandra Eliza Fontes de Avila;sandra eliza fontes de avila;2025;Doutorado;Diego Alysson Braga Moreira;Titular;IC explícito;170
+Marcelo da Silva Reis;marcelo da silva reis;2025;Doutorado;Diego Alysson Braga Moreira;Titular;IC explícito;170
+Nelson Luis Saldanha da Fonseca;nelson luis saldanha da fonseca;2025;Doutorado;Tiago Pedroso da Cruz de Andrade;Orientação;IC explícito;171
+Nelson Luis Saldanha da Fonseca;nelson luis saldanha da fonseca;2025;Doutorado;Tiago Pedroso da Cruz de Andrade;Titular;IC explícito;171
+Edmundo Roberto Mauro Madeira;edmundo roberto mauro madeira;2025;Doutorado;Tiago Pedroso da Cruz de Andrade;Suplente;IC explícito;171
+Cecília Mary Fischer Rubira;cecilia mary fischer rubira;2025;Doutorado;Sheila Katherine Venero Ferro;Orientação;IC explícito;172
+Leonardo Montecchi;leonardo montecchi;2025;Doutorado;Sheila Katherine Venero Ferro;Coorientação;IC inferido pelo cadastro;172
+Julio Cesar dos Reis;julio cesar dos reis;2025;Doutorado;Sheila Katherine Venero Ferro;Coorientação;IC inferido pelo cadastro;172
+Cecília Mary Fischer Rubira;cecilia mary fischer rubira;2025;Doutorado;Sheila Katherine Venero Ferro;Titular;IC explícito;172
+Eliane Martins;eliane martins;2025;Doutorado;Sheila Katherine Venero Ferro;Titular;IC explícito;172
+Bruno Barbieri de Pontes Cafeo;bruno barbieri de pontes cafeo;2025;Doutorado;Sheila Katherine Venero Ferro;Titular;IC explícito;172
+Breno Bernard Nicolau de França;breno bernard nicolau de franca;2025;Doutorado;Sheila Katherine Venero Ferro;Suplente;IC explícito;172
+Anderson de Rezende Rocha;anderson de rezende rocha;2025;Doutorado;Jeanfranco David Farfan Escobedo;Orientação;IC explícito;173
+Anderson de Rezende Rocha;anderson de rezende rocha;2025;Doutorado;Jeanfranco David Farfan Escobedo;Titular;IC explícito;173
+Marcelo da Silva Reis;marcelo da silva reis;2025;Doutorado;Jeanfranco David Farfan Escobedo;Titular;IC explícito;173
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Doutorado;Jeanfranco David Farfan Escobedo;Suplente;IC explícito;173
+Zanoni Dias;zanoni dias;2025;Doutorado;Lucas Oliveira David;Orientação;IC explícito;174
+Hélio Pedrini;helio pedrini;2025;Doutorado;Lucas Oliveira David;Coorientação;IC inferido pelo cadastro;174
+Zanoni Dias;zanoni dias;2025;Doutorado;Lucas Oliveira David;Titular;IC explícito;174
+Marcelo da Silva Reis;marcelo da silva reis;2025;Doutorado;Lucas Oliveira David;Titular;IC explícito;174
+Marcos Medeiros Raimundo;marcos medeiros raimundo;2025;Doutorado;Lucas Oliveira David;Suplente;IC explícito;174
